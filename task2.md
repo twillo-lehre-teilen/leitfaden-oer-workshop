@@ -115,7 +115,7 @@ Das Video Lizenzhinweise am eigenem Material zeigt, worauf bei der Lizenzierung 
 
 <figure>
 <video style="width:100%;" controls>
- <source src="Lizenzangaben an eigenen Bildungsmaterialien.mp4" type="video/mp4">
+ <source src="videos/Lizenzangaben an eigenen Bildungsmaterialien.mp4" type="video/mp4">
  </video>
  <figcaption style="text-align:center;font-size:14px;">Video 1: Lizenzhinweise am eigenem Material</figcaption>
 </figure>

@@ -87,7 +87,7 @@ for (var i = 0; i < acc.length; i++) {
 
 <figure>
   <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. 10: Offenheitsgrade von OER_CCLizenzen title="Abb. 1: Offenheitsgrade von OER_CCLizenzen"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 10: <I>Offenheitsgrade von OER (CC-Lizenzen)</I></figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 10: Offenheitsgrade von OER (CC-Lizenzen)</figcaption>
 </figure>
 
 ### Weiterführende Informationen

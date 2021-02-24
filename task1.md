@@ -1,10 +1,10 @@
 # Aufgabe A: Bestehende OER teilen
 
-<b>Führen Sie eine Internetrecherche durch und identifizieren Sie hochwertige Lehrmaterialien, die den Merkmalen von OER entsprechen. Veröffentlichen Sie diese anschließend im OER-Portal twillo.
+Führen Sie eine Internetrecherche durch und identifizieren Sie hochwertige Lehrmaterialien, die den Merkmalen von OER entsprechen. Veröffentlichen Sie diese anschließend im OER-Portal twillo.
 
-In den folgenden acht Schritten erhalten Sie wichtige Hinweise bei der Aufgabenbearbeitung.
+In den folgenden acht Schritten erhalten Sie wichtige Hinweise für die Aufgabenbearbeitung.
 
-Los geht's!</b><br><br>
+<b>Los geht's!</b><br><br>
 
 <!-- Script fürs Accordion -->
 <script>

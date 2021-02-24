@@ -231,7 +231,7 @@ Entweder Sie aktivieren im Abschnitt Lizenz den Schalter <I>Objekt mit dieser Li
 
 <b>oder</b>
 
-Sie gehen Sie über das Kontextmenü zum Punkt Freigeben und aktivieren in der Freigabemaske den Schalter Material öffentlich freigeben. Sie haben in dieser Maske auch die Möglichkeit, das Material zunächst nur für ausgewählte Personen freizugeben.
+Sie gehen Sie über das Kontextmenü zum Punkt <I>Freigeben</I> und aktivieren in der Freigabemaske den Schalter <I>Material öffentlich freigeben</I>. Sie haben in dieser Maske auch die Möglichkeit, das Material zunächst nur für ausgewählte Personen freizugeben.
 
 Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
 

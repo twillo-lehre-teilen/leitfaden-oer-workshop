@@ -227,13 +227,13 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
   <div class="panel">
    <p>Erst mit der Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
 
-Entweder Sie aktivieren im Abschnitt Lizenz den Schalter <I>Objekt mit dieser Lizenz veröffentlichen </I>
+Entweder Sie aktivieren im Abschnitt Lizenz den Schalter <b>Objekt mit dieser Lizenz veröffentlichen </b>
 
 <b>oder</b>
 
-Sie gehen Sie über das Kontextmenü zum Punkt <I>Freigeben</I> und aktivieren in der Freigabemaske den Schalter <I>Material öffentlich freigeben</I>. Sie haben in dieser Maske auch die Möglichkeit, das Material zunächst nur für ausgewählte Personen freizugeben.
+Sie gehen Sie über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren in der Freigabemaske den Schalter <b>Material öffentlich freigeben</b>. Sie haben in dieser Maske auch die Möglichkeit, das Material zunächst nur für ausgewählte Personen freizugeben.
 
-Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
+Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer\*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
 
 <figure>
   <img src="images/Freigabe_twillo.svg" alt="Abb. 19: Screenshot Freigabe twillo " title="Abb. 19: Screenshot Freigabe twillo "/>

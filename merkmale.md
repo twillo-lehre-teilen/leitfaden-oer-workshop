@@ -37,7 +37,7 @@ Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiforma
 
 <figure>
   <img src="images/oernds_oer_gardening_text.svg" alt="Abb. 7: OER Gardening. Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" title="Abb. 7: 'OER Gardening' von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 7: "OER Gardening" von Merle Zander und twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 7: OER Gardening von Merle Zander und twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
 </figure>
 
 <b>Offene Standards</b><br>einfache Weiterverarbeitung durch Open Source Software

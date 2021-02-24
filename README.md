@@ -12,6 +12,6 @@ Im [ersten Kapitel "Lessons Learned"](lessons_learned.md) werden die Information
 </figure>
 <br>
 <br>
-<h2>Viel Erfolg!<h2>
+<strong>Viel Erfolg!</strong>
 
 </center>

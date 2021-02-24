@@ -86,7 +86,7 @@ for (var i = 0; i < acc.length; i++) {
 &#9888;&#65039; <b>Wichtig:</b> Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA, weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (<a aria-describedby="Link zum OER Portal Niedersachsen" href="https://www.oernds.de/oer/legal.html" target="_blank">OER Portal Niedersachsen 2021</a>).
 
 <figure>
-  <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. 1: Offenheitsgrade von OER_CCLizenzen" title="Abb. 1: Offenheitsgrade von OER_CCLizenzen"/>
+  <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. 1: <I>Offenheitsgrade von OER_CCLizenzen</I> title="Abb. 1: Offenheitsgrade von OER_CCLizenzen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 10: Offenheitsgrade von OER (CC-Lizenzen)</figcaption>
 </figure>
 

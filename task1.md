@@ -35,9 +35,10 @@ for (var i = 0; i < acc.length; i++) {
 <div>
   <button class="accordion">Schritt 1: Material finden</button>
   <div class="panel">
-   <p>Recherchieren Sie im Internet nach interessanten Lehr-/Lernmaterialien ihres Faches/ihrer Disziplin, die CC-lizenziert sind. Legen Sie ein besonderes Augenmerk darauf, dass eine kostenfreie Verwendung, Veränderung und Weiterverbreitung des Materials zulässig ist.
+   <p> Recherchieren Sie im Internet nach interessanten Lehr-/Lernmaterialien ihres Faches/ihrer Disziplin, die CC-lizenziert sind. Legen Sie ein besonderes Augenmerk darauf, dass eine kostenfreie Verwendung, Veränderung und Weiterverbreitung des Materials zulässig ist.
 
-   Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit auf das Auffinden von OER ausgerichtet sind oder Internetseiten wählen, die offen lizenzierte Materialien bereitstellen. Dies sind z.B
+Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit auf das Auffinden von OER ausgerichtet sind oder Internetseiten wählen, die offen lizenzierte Materialien bereitstellen. Dies sind z.B. 
+   
   <ul>
     <li> OERSI (<a aria-describedby="Link zur OERSI-Seite" href="http://oersi.de/" target="_blank">oersi.de</a>, derzeit in der Beta-Phase)</li>
     <li> OERhörnchen (<a aria-describedby="Link zur OER-Hörnchen-Seite" href="http://oerhoernchen.de/" target="_blank">oerhoernchen.de</a>)</li>
@@ -45,18 +46,18 @@ for (var i = 0; i < acc.length; i++) {
     <li> Wikimedia Commons (<a aria-describedby="Link zu Wikimedia Commons" href="http://commons.wikimedia.org/" target="_blank">commons.wikimedia.org</a>)</li>
     <li> X5GON (<a aria-describedby="Link zur X5GON-Seite" href="http://discovery.x5gon.org/" target="_blank">discovery.x5gon.org</a>, derzeit in der Beta-Phase)</p>
   </ul>
-  Selbstverständlich können Sie für Ihre Recherche auch die üblichen Suchmaschinen oder Plattformen z.B. (Google und YouTube) nutzen. Um den Prozess zu vereinfachen, richten Sie Ihre Suche gezielt auf eine gewünschte Lizenz aus.
+  Selbstverständlich können Sie für Ihre Recherche auch die üblichen Suchmaschinen oder Plattformen (z.B. Google und YouTube) nutzen. Um den Prozess zu vereinfachen, richten Sie Ihre Suche gezielt auf eine gewünschte Lizenz aus.
 
-  Google:  Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 9). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 10).
+  <b>Google:</b> Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 11). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 12).
   <figure>
-    <img src="images/Google_Suche_1.svg" alt="Abb. 10: Screenshot einer Googlesuche" title="Abb. 10: Screenshot Google-Suche"/>
-    <figcaption style="text-align:center;font-size:14px;">Abb. 10: Screenshot Google-Suche</figcaption>
+    <img src="images/Google_Suche_1.svg" alt="Abb. 11: Screenshot einer Googlesuche" title="Abb. 11: Screenshot Google-Suche"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. 11: Screenshot Google-Suche</figcaption>
   </figure>
   <figure>
     <img src="images/Google_Suche_2.svg" alt="Abb. 12: Screenshot einer Googlesuche mit Filter" title="Abb. 12.: Screenshot Google-Suchfilter"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 12.: Screenshot Google-Suchfilter</figcaption>
   </figure>
-  Youtube: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option "Filter" und schränken Sie die Ergebnisse im Bereich "Eigenschaften" durch die Wahl der Option "Creative Commons" ein (S. Screenshot 3).
+  <b>Youtube</b>: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option "Filter" und schränken Sie die Ergebnisse im Bereich "Eigenschaften" durch die Wahl der Option "Creative Commons" ein (s. Abb. 13).
   <figure>
     <img src="images/YouTube.svg" alt="Abb. 13: Screenshot Youtube-Suchfilter" title="Abb. 13: Screenshot YouTube-Suchfilter"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot YouTube-Suchfilter</figcaption>
@@ -73,19 +74,19 @@ for (var i = 0; i < acc.length; i++) {
 > Der Lizenztext macht deutlich, welche Nutzungsbedingungen beim jeweiligen Material gelten und welcher Nutzungsgrad bei der Verwendung zulässig ist.
 > <br><br>
 > <b>Lizenzversion:</b><br>
-> Die unterschiedlichen Versionen (2.0 bzw. 3.0 bzw. 4.0) zeigen die durchlaufenen Revisionsprozesse der CC-Lizenzmodule an.
+> Die unterschiedlichen Versionen (2.0, 3.0 bzw. 4.0) zeigen die durchlaufenen Revisionsprozesse der CC-Lizenzmodule an.
 > <br><br>
 > <b>Lizenzicon:</b><br>
 > Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. 
   
 Ein korrekter CC-Lizenzhinweis <b>muss</b> folgende Punkte enthalten:
 <ul>
-  <li>Lizenz und Lizenzversion</li>
-  <li>Verweis zum Lizenztext (z. B. Verlinkung oder ausgeschriebener Link)</li>
-  <li>Urheber*in(nen)angabe (sofern die Lizenz das Modul <b>BY</b> enthält) </li>
+  <li><b>Lizenz und Lizenzversion</b></li>
+  <li><b>Verweis zum Lizenztext</b> (z. B. Verlinkung oder ausgeschriebener Link)</li>
+  <li><b>Urheber*in(nen)angabe bzw. Rechteinhaber*in(nen)angabe</b> (sofern die Lizenz das Modul <b>BY</b> enthält) </li>
 </ul>
 
-Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis (CC BY (4.0)), der die verpflichtenden Angaben enthält.
+Die folgende Abbildung zeigt ein Beispiel für einen CC BY (4.0)-Lizenzhinweis, der die verpflichtenden Angaben enthält.
 
 <figure>
   <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 14: Pflichtangaben in Lizenzhinweisen" title="Abb. 14: Pflichtangaben in Lizenzhinweisen"/>

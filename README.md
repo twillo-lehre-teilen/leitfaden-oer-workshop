@@ -11,6 +11,7 @@ Im [ersten Kapitel "Lessons Learned"](lessons_learned.md) werden die Information
   <figcaption style="text-align:center;font-size:14px;">Abb. 1: "Person with hand up" von Merle Zander und twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
 </figure>
 
-Viel Erfolg!
+<br>
+<strong>Viel Erfolg!</strong>
 
 </center>

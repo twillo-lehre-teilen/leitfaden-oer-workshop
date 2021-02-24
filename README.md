@@ -13,6 +13,6 @@ Im [ersten Kapitel "Lessons Learned"](lessons_learned.md) werden die Information
 
 <br>
 <br>
-<strong>Viel Erfolg!</strong>
+# Viel Erfolg!
 
 </center>

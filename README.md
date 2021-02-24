@@ -8,7 +8,7 @@ Im [ersten Kapitel "Lessons Learned"](lessons_learned.md) werden die Information
 
 <figure>
   <img src="images/LineArt_nutzen_gespiegelt.svg" alt="Abb. 1: "Person with hand up" von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. 1: "Person with hand up" von Merle Zander und twillo, lizenziert unter CC BY (4.0)">
-  <figcaption style="text-align:center;font-size:14px;">Abb. 1: <I>Person with hand up</I> von Merle Zander und twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 1: Person with hand up von Merle Zander und twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
 </figure>
 
 

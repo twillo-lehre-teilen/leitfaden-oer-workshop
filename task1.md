@@ -119,7 +119,7 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
   <div class="panel">
    <p>Wenden Sie sich in diesem Schritt dem Dateiformat zu. Prüfen Sie, ob das Dokument in einem offenen Dateiformat vorliegt, das eine direkte Bearbeitung erlaubt.
 
-  Sollte dies nicht der Fall sein, überführen Sie das gewählte Material in ein offeneres Dateiformat -  <b>sofern es die Lizenz erlaubt</b>. Sollte die Lizenz das Modul <b>ND</b> enthalten, ist jegliche Form der Bearbeitung ausgeschlossen - dies gilt auch für die Konvertierung in ein anderes Format.
+  Sollte dies nicht der Fall sein, überführen Sie das gewählte Material in ein offeneres Dateiformat - <b>sofern es die Lizenz erlaubt</b>. Sollte die Lizenz das Modul <b>ND</b> enthalten, ist jegliche Form der Bearbeitung ausgeschlossen - dies gilt auch für die Konvertierung in ein anderes Format.
 
   Wenn Sie das Material in ein offenes Format überführen konnten/durften, stellen Sie am besten sowohl die konvertierte Datei (z.B. Word), als auch die Originaldatei (z.B. PDF) in das Portal. Auf diese Weise können Sie z.B. das Layout und Design des Originalwerks zur Veranschaulichung erhalten und gleichzeitig die Beabreitung der Inhalte ermöglichen.
 
@@ -202,7 +202,7 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
 <ul>
   <li>Geben Sie an, in welchem <b>Veranstaltungsformat</b> Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
   <br>
-  <li>Geben Sie an, für welche <b>Nivea</b>ustufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
+  <li>Geben Sie an, für welches <b>Niveau</b> bzw. für welche Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
   <br>
   <li>Das Metadatum didaktische <b>Funktion</b> zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:</li>
   <ul>

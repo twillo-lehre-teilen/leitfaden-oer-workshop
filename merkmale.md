@@ -8,14 +8,14 @@
 Es gibt bei der Erstellung und Veröffentlichung von freien Bildungsmaterialien einige Aspekte zu beachten. Diese Aspekte stehen eng mit den vier grundlegenden Merkmale von OER in Verbindung. Die Beachtung dieser Merkmale können zu hochwertigen Bildungsmaterialien führen und gewährleisten einen OER-Standard.
 Im Folgenden werden diese Merkmale erläutert.
 
-## 1. OER sind offenlizensiert
+## 1. OER sind offen lizenziert
 
 <figure>
   <img src="images/Merkmal_offene Lizenz.svg" alt="Abb. 4: Offene Lizenz" title="Abb. 4: Offene Lizenz"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 4: Offene Lizenz</figcaption>
 </figure>
 
-OER sind freie Bildungsmaterialien, die mit einer <B>offenen Lizenz</B> versehen sind, die Dritten explizit <B>Nutzungsrechte</B> einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch die entsprechenden Lizenzbausteine differenziert entscheiden können, welche Rechte Sie Dritten an ihrem Bildungsmaterial einräumen möchten. 
+OER sind freie Bildungsmaterialien, die mit einer <b>offenen Lizenz</b> versehen sind, die Dritten explizit <b>Nutzungsrechte</b> einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten. . 
 
 <figure>
   <img src="images/Nutzungsbedingungen_design.svg" alt="Abb. 5: CC-Lizenzmodule. Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" title="Abb. 5: CC-Lizenzmodule"/>
@@ -50,7 +50,7 @@ Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiforma
 
 </center> 
  
-Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format docx dem Format PDF vorzuziehen ist (Editierbarkeit), während das Format odt Vorteile gegenüber dem Format doc besitzt (Offener Standard). Möglich ist es auch Bildungsmaterialien in mehreren Dateiformaten bereitzustellen. Dies bietet sich auch an, wenn Kopatibilitätsprobleme zu befürchten sind. So etwa kann ein Arbeitsblatt im odt Format bereitgestellt werden und die Editierbarkeit zugewährleisten und zusätzlich im PDF Format, um das Layout auch in verschiedenen Systemen oder Anwendungen zu erhalten.
+Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format DOCX dem Format PDF vorzuziehen ist (Editierbarkeit), während das Format odt Vorteile gegenüber dem Format doc besitzt (Offener Standard). Möglich ist es auch Bildungsmaterialien in mehreren Dateiformaten bereitzustellen. Dies bietet sich auch an, wenn Kopatibilitätsprobleme zu befürchten sind. So etwa kann ein Arbeitsblatt im odt Format bereitgestellt werden und die Editierbarkeit zugewährleisten und zusätzlich im PDF Format, um das Layout auch in verschiedenen Systemen oder Anwendungen zu erhalten.
 
 ## 3. OER sind umfassend beschrieben und automatisch auffindbar
 
@@ -74,7 +74,7 @@ Materialien, die für den Bildungskontext erstellt werden, sind für spezifische
 
 ### Didaktische Strukturierung
 
-Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die didaktische Ausrichtung des Bildungsmaterials zu erhalten. Dies erfolgt auf twillo mit der Einordnung des Bildungsmaterials in einen der fünf Inhaltstypen. So erhalten Lehrende einen ersten Überblick darüber, ob es sich um ein kleinteiliges Lehrmaterial oder ein aufgabenorientiertes Material, um eine Lektion oder um einen Kurs beziehungsweise um ein Werkzeug handelt. 
+Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die didaktische Ausrichtung des Bildungsmaterials zu erhalten. Dies erfolgt auf twillo mit der Einordnung des Bildungsmaterials in einen von fünf Inhaltstypen. So erhalten Lehrende einen ersten Überblick darüber, ob es sich um ein kleinteiliges oder ein aufgabenorientiertes Lehrmaterial, um eine Lektion oder einen Kurs bzw. um ein Werkzeug handelt. 
 
 <!-- Script fürs Accordion -->
 <script>
@@ -128,3 +128,4 @@ for (var i = 0; i < acc.length; i++) {
 ### Didaktische Kontextualisierung
 
 Lehrende sind die Expert\*innen für ihre eigenen Lehrmaterialien. Um andere Lehrende dabei zu unterstützen, die Passung der Materialien in einen anderen Lehrkontext einzuschätzen, ist die Darlegung von Kontextinformationen zentral. Geben Sie Hinweise zu dem Veranstaltungsformat und der Zielgruppe, für die das Material primär konzipiert wurde, erläutern Sie didaktische Funktionen und hinterlassen Sie einen Erfahrungsbericht, der auf Erfolgsbedingungen bei der Materialnutzung eingeht.
+

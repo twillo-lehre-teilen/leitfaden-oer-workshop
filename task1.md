@@ -218,7 +218,7 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
     <li>Setzt das Bildungsmaterial Vorwissen bei Lernenden voraus? <l>z. B. Für diese vertiefende Übung sind Grundkenntnisse der Algebra notwendig.</l></li>
     <li>Intendiert das Bildungsmaterial ein bestimmtes Lernziel?  <l>z. B. Die Studierenden sollen anhand des Planspiels erlerntes theoretisches Fachwissen spielerisch auf Praxisbeispiele anwenden und damit ihre Fach- und Methodenkompetenzen vertiefen.</l></li>
     <li>In welchem Lehr- bzw. Lernkontext haben Sie das Material bereits verwendet? <l>z. B. Diese Karikatur habe ich als stillen Impuls in meinem Seminar angewendet um in das Thema einzuführen.</l></li>
-    <li>In welchem Lehr- bzw. Lernkontext könnte das Material noch verwendet werden? <l>z. B. Die Karikatur kann darüber hinaus als ein Beispiel für Impfkritik innerhalb eines Folieninputs verwendet werden.</l></li>
+    <li>In welchem Lehr- bzw. Lernkontext könnte das Material noch verwendet werden? <l>z. B. Die Karikatur kann darüber hinaus als ein Beispiel für Pressefreiheit innerhalb eines Folieninputs verwendet werden.</l></li>
   </ol>
 </ul>
   </p>
@@ -239,8 +239,8 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
 Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
 
 <figure>
-  <img src="images/Freigabe_twillo.svg" alt="Abb. 20: Screenshot Freigabe twillo " title="Abb. 20: Screenshot Freigabe twillo "/>
-   <figcaption style="text-align:center;font-size:14px;">Abb. 20: Screenshot Freigabe twillo</figcaption>
+  <img src="images/Freigabe_twillo.svg" alt="Abb. 19: Screenshot Freigabe twillo " title="Abb. 19: Screenshot Freigabe twillo "/>
+   <figcaption style="text-align:center;font-size:14px;">Abb. 19: Screenshot Freigabe twillo</figcaption>
 </figure>
   </p>
   </div>

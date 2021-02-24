@@ -86,8 +86,8 @@ for (var i = 0; i < acc.length; i++) {
 &#9888;&#65039; <b>Wichtig:</b> Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA, weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (<a aria-describedby="Link zum OER Portal Niedersachsen" href="https://www.oernds.de/oer/legal.html" target="_blank">OER Portal Niedersachsen 2021</a>).
 
 <figure>
-  <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. 1: <I>Offenheitsgrade von OER_CCLizenzen</I> title="Abb. 1: Offenheitsgrade von OER_CCLizenzen"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 10: Offenheitsgrade von OER (CC-Lizenzen)</figcaption>
+  <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. 10: Offenheitsgrade von OER_CCLizenzen title="Abb. 1: Offenheitsgrade von OER_CCLizenzen"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 10: <I>Offenheitsgrade von OER (CC-Lizenzen)</I></figcaption>
 </figure>
 
 ### Weiterführende Informationen
@@ -100,5 +100,5 @@ CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-L
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
-  <figcaption style="text-align:center;font-size:14px;">Video 1: <a aria-describedby="Urheberrecht für Nicht-Jurist:innen" href="https://www.youtube.com/watch?v=E955up7vtCk" target="_blank">"Urheberrecht für Nicht-Jurist:innen"</a> von Nele Hirsch lizenziert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC 0 (1.0)</a></figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Video 1: <a aria-describedby="Urheberrecht für Nicht-Jurist:innen" href="https://www.youtube.com/watch?v=E955up7vtCk" target="_blank"><I>Urheberrecht für Nicht-Jurist:innen</I></a> von Nele Hirsch lizenziert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC 0 (1.0)</a></figcaption>
 </figure>

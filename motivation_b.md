@@ -5,5 +5,6 @@
 </figure>
 <br>
 <br>
-<b>Juhu! Sie haben Ihre ersten eigenen Bildungsmaterialien auf twillo geteilt!</b>
+<b>Juhu! <br> 
+Sie haben Ihre ersten eigenen Bildungsmaterialien auf twillo geteilt!</b>
 </center>

@@ -3,4 +3,4 @@
   <figcaption style="text-align:center;font-size:14px;">Person with confetti von Merle Zander und twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
 </figure>
 
-<center><h2>Juhu! Sie haben Ihre ersten eigenen Bildungsmaterialien auf twillo geteilt!</h2></center>
+<h2>Juhu! Sie haben Ihre ersten eigenen Bildungsmaterialien auf twillo geteilt!</h2>

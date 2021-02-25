@@ -1,10 +1,10 @@
 # Aufgabe B: Eigene OER teilen
 
-<b>Wählen Sie Lehr-/Lernmaterial aus, das Sie selbst für eine Ihrer Lehrveranstaltungen erstellt haben. Bereiten Sie es ggf. auf, damit es den Merkmalen von OER entspricht und veröffentlichen Sie es anschließend im OER-Portal twillo.
+Wählen Sie Lehr-/Lernmaterial aus, das Sie selbst für eine Ihrer Lehrveranstaltungen erstellt haben. Bereiten Sie es ggf. auf, damit es den Merkmalen von OER entspricht und veröffentlichen Sie es anschließend im OER-Portal twillo.
 
 In den folgenden neun Schritten erhalten Sie wichtige Hinweise bei der Aufgabenbearbeitung.
 
-Los geht's!</b><br><br>
+<b>Los geht's!</b><br><br>
 
 <!-- Script fürs Accordion -->
 <script>
@@ -233,7 +233,7 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
     <li>Setzt das Bildungsmaterial Vorwissen bei Lernenden voraus? <l>z. B. Für diese vertiefende Übung sind Grundkenntnisse der Algebra notwendig.</l></li>
     <li>Intendiert das Bildungsmaterial ein bestimmtes Lernziel?  <l>z. B. Die Studierenden sollen anhand des Planspiels erlerntes theoretisches Fachwissen spielerisch auf Praxisbeispiele anwenden und damit ihre Fach- und Methodenkompetenzen vertiefen.</l></li>
     <li>In welchem Lehr- bzw. Lernkontext haben Sie das Material bereits verwendet? <l>z. B. Diese Karikatur habe ich als stillen Impuls in meinem Seminar angewendet um in das Thema einzuführen.</l></li>
-    <li>In welchem Lehr- bzw. Lernkontext könnte das Material noch verwendet werden? <l>z. B. Die Karikatur kann darüber hinaus als ein Beispiel für Impfkritik innerhalb eines Folieninputs verwendet werden.</l></li>
+    <li>In welchem Lehr- bzw. Lernkontext könnte das Material noch verwendet werden? <l>z. B. Die Karikatur kann darüber hinaus als ein Beispiel für Pressefreiheit innerhalb eines Folieninputs verwendet werden.</l></li>
   </ol>
 </ul></p>
   </div>
@@ -241,13 +241,13 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
   <div class="panel">
    <p>Erst mit der Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
 
-<ol>
-  <li>Aktivieren Sie im Abschnitt Lizenz den Schalter <b>Objekt mit dieser Lizenz veröffentlichen</b>.</li>
-  <br>
-  Oder
-  <br>
-  <br>
-  <li>Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren in der Freigabemaske den Schalter <b>Material öffentlich freigeben</b>. Sie haben in dieser Maske auch die Möglichkeit, das Material zunächst nur für ausgewählte Personen freizugeben.</li>
+Entweder Sie aktivieren Sie im Abschnitt Lizenz den Schalter <b>Objekt mit dieser Lizenz veröffentlichen</b>
+<br>
+<br>
+<b>oder</b>
+<br>
+<br>
+Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren in der Freigabemaske den Schalter <b>Material öffentlich freigeben<b>. Sie haben in dieser Maske auch die Möglichkeit, das Material zunächst nur für ausgewählte Personen freizugeben.</li>
 </ol>
 
 Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.

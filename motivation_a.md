@@ -1,3 +1,6 @@
 <figure>
-    <img src="images/Motivationsjubel_Aufgabe_a.svg" alt="Abb. 1: Motivationsjubel - Juhu! Sie haben ein Material auf twillo geteilt!" title="Abb. 1: Motivationsjubel - Juhu! Sie haben ein Material auf twillo geteilt!"/>
+  <img src="images/LineArt_person_with_confetti.svg" alt="Abb. : person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. : person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)">
+  <figcaption style="text-align:center;font-size:14px;">Person with confetti von Merle Zander und twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
 </figure>
+
+<center><h2>Juhu! Sie haben ein Material auf twillo geteilt</h2></center>

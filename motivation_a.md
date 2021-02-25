@@ -1,5 +1,5 @@
 <center>
-<b>Juhu!<br> 
+&#127775;<b>Juhu!&#127775;<br> 
 Sie haben Bildungsmaterial auf twillo geteilt!</b><br>
 <figure>
   <img src="images/LineArt_person_with_confetti.svg" alt="Abb. : person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. : person with confetti von Merle Zander und twillo, lizenziert unter CC BY (4.0)">

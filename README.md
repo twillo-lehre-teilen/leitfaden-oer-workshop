@@ -3,8 +3,8 @@
 # Herzlich Willkommen
 
 Dieser Leitfaden "Teilen von Bildungsmaterialien" soll Sie bei der Entwicklung und Bereitstellung von OER unterstützen. Hier finden Sie alle relevanten Grundlagen und Informationen, um die Herausforderungen im Umgang mit OER zu meistern.
-
-Im [ersten Kapitel "Lessons Learned"](lessons_learned.md) werden die Informationen aus dem Online-Workshop "Bildungsmaterialien teilen – Mehrwerte für Lehrende" in aller Kürze zusammengefasst. Das [zweite Kapitel "Umsetzungsleitfaden"](task_overview.md) führt Sie Schritt für Schritt durch eine Aufgabenstellung.
+<a aria-label="Link zur Seite: Urheberrechte und Lizenzen." href="#/urheberechte_und_lizenzen.md">Urheberrecht und offene Lizenzen</a>
+Im ersten Kapitel <a aria-label="Link zum ersten Kapitel" href="#/lessons_learned.md">"Lessons Learned"</a> werden die Informationen aus dem Online-Workshop "Bildungsmaterialien teilen – Mehrwerte für Lehrende" in aller Kürze zusammengefasst. Das [zweite Kapitel "Umsetzungsleitfaden"](task_overview.md) führt Sie Schritt für Schritt durch eine Aufgabenstellung.
 
 <figure>
   <img src="images/LineArt_nutzen_gespiegelt.svg" alt="Abb. 1: "Person with hand up" von Merle Zander und twillo, lizenziert unter CC BY (4.0)" title="Abb. 1: "Person with hand up" von Merle Zander und twillo, lizenziert unter CC BY (4.0)">

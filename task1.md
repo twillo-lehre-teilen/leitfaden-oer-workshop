@@ -50,7 +50,7 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
 
   <b>Google:</b> Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 11). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 12).
   <figure>
-    <img src="images/Google_Suche_1.svg" alt="Abb. 11: Screenshot einer Googlesuche" title="Abb. 11: Screenshot Google-Suche"/>
+    <img src="images/Google_Suche_1.svg" alt="Abb. 11: Screenshot einer Googlesuche" title="Abbildung 11: Screenshot Google-Suche"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 11: Screenshot Google-Suche</figcaption>
   </figure>
   <figure>

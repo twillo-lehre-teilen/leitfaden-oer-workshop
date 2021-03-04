@@ -33,7 +33,7 @@ for (var i = 0; i < acc.length; i++) {
 </script>
 
 <div>
-  <button class="accordion">Schritt 1: Material auswählen</button>
+  <button aria-label="zu Schritt 1" class="accordion">Schritt 1: Material auswählen</button>
   <div class="panel">
    <p>Damit der zeitliche Bearbeitungsrahmen von 30 Minuten eingehalten wird, empfehlen wir solche Materialien aus dem eigenen bewährten Lehrmaterialfundus zu wählen, die vom Umfang her den Inhaltsytypen <b>kleinteiliges Lehrmaterial</b> oder <b>aufgabenorientiertes Lehrmaterial</b> entsprechen.
     
@@ -50,7 +50,7 @@ for (var i = 0; i < acc.length; i++) {
 > &#x1F4A1; Bei der Bereitstellung von aufgabenorientierten Materialien sollten sowohl die Aufgabe, die Übung, das Arbeitsblatt etc., als auch ergänzende Materialien wie z.B. Hilfestellung, (Muster-)Lösungen, bzw. Lösungswege oder Best-Practice-Beispiele bereitgestellt werden. Dies erleichtert anderen Lehrenden die Nachnutzung und Kontextualisierung der Materialien.
     </p>
   </div>
-  <button class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
+  <button aria-label="zu Schritt 2" class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
   <div class="panel">
    <p>Nachdem Sie nun eine Wahl getroffen haben, überprüfen Sie, ob sich <b>urheberrechtlich geschützte Inhalte oder Werke im oder am Material</b> befinden. Haben Sie beispielsweise Bilder verwendet, die urheberrechtlich geschützt sind?
   
@@ -86,13 +86,13 @@ Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis g
     Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel: unter der Lizenz CC BY 4.0</li>
 <li><b>Verweis zum Lizenztext:</b>
     <br>
-    Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: <a aria-describedby="Link zu Creative Commons Namensnennung 4.0" href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a></li>
+    Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: <a aria-label="Link zu Creative Commons Namensnennung 4.0" href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a></li>
 <li>Haben Sie sich für die Attribution <b>BY</b> entschieden, dann geben Sie im Lizenzhinweis auch die Namen aller Urheber*innen bzw. Rechteinhaber*innen an. Auch der Name einer Organisation/Institution ist zulässig (z.B: twillo, CC BY 4.0), sofern diese die Rechte am Werk besitzt.</li>
 
 Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis, der die verpflichtenden Angaben enthält.
 
 <figure>
-  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 11: Pflichtangaben in Lizenzhinweisen" title="Abb. 11: Pflichtangaben in Lizenzhinweisen"/>
+  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 11: Pflichtangaben in Lizenzhinweisen" title="Abbildung 11: Pflichtangaben in Lizenzhinweisen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 11: Pflichtangaben in Lizenzhinweisen</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
 Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
 
 <figure>
-  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 12: Ausführlicher Lizenzhinweis" title="Abb. 12: Ausführlicher Lizenzhinweis"/>
+  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 12: Ausführlicher Lizenzhinweis" title="Abbildung 12: Ausführlicher Lizenzhinweis"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 12: Ausführlicher Lizenzhinweis</figcaption>
 </figure>
 

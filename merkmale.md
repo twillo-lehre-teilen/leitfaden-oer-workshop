@@ -1,7 +1,7 @@
 ## Merkmale von OER
 
 <figure>
-  <img src="images/Merkmale_OER.svg" alt="Abb. 3: Merkmale von OER: offene Lizenz, offenes Dateiformat, automatische Auffindbarkeit, didaktische Kontextualisierung. Das macht hochwertige OER-Materialien aus" title="Abb. 3: Merkmale von OER"/>
+  <img src="images/Merkmale_OER.svg" alt="Abb. 3: Merkmale von OER: offene Lizenz, offenes Dateiformat, automatische Auffindbarkeit, didaktische Kontextualisierung. Das macht hochwertige OER-Materialien aus" title="Abbildung 3: Merkmale von OER"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 3: Merkmale von OER</figcaption>
 </figure>
 
@@ -11,23 +11,23 @@ Im Folgenden werden diese Merkmale erläutert.
 ## 1. OER sind offen lizenziert
 
 <figure>
-  <img src="images/Merkmal_offene Lizenz.svg" alt="Abb. 4: Offene Lizenz" title="Abb. 4: Offene Lizenz"/>
+  <img src="images/Merkmal_offene Lizenz.svg" alt="Abb. 4: Offene Lizenz" title="Abbildung 4: Offene Lizenz"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 4: Offene Lizenz</figcaption>
 </figure>
 
 OER sind freie Bildungsmaterialien, die mit einer <b>offenen Lizenz</b> versehen sind, die Dritten explizit <b>Nutzungsrechte</b> einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten. . 
 
 <figure>
-  <img src="images/Nutzungsbedingungen_design.svg" alt="Abb. 5: CC-Lizenzmodule. Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" title="Abb. 5: CC-Lizenzmodule"/>
+  <img src="images/Nutzungsbedingungen_design.svg" alt="Abb. 5: CC-Lizenzmodule. Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" title="Abbildung 5: CC-Lizenzmodule"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 5: CC-Lizenzmodule</figcaption>
 </figure>
 
-Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“ (s. Kapitel <a aria-describedby="Link zur Seite: Urheberrechte und Lizenzen." href="#/urheberechte_und_lizenzen.md">Urheberrecht und offene Lizenzen</a>). Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
+Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“ (s. Kapitel <a aria-label="Link zur Seite: Urheberrechte und Lizenzen." href="#/urheberechte_und_lizenzen.md">Urheberrecht und offene Lizenzen</a>). Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
 
 ## 2. OER liegen in einem möglichst offenen Dateiformat vor 
 
 <figure>
-  <img src="images/Merkmal_offenes Dateiformat.svg" alt="Abb. 6: Offenes Dateiformat. OER liegen in einem möglichst offenen Dateiformat vor" title="Abb. 6: Offenes Dateiformat"/>
+  <img src="images/Merkmal_offenes Dateiformat.svg" alt="Abb. 6: Offenes Dateiformat. OER liegen in einem möglichst offenen Dateiformat vor" title="Abbildung 6: Offenes Dateiformat"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 6: Offenes Dateiformat</figcaption>
 </figure>
 
@@ -36,8 +36,8 @@ Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiforma
 ### Kriterien für offene Dateiformate sind
 
 <figure>
-  <img src="images/oernds_oer_gardening_text.svg" alt="Abb. 7: OER Gardening. Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" title="Abb. 7: 'OER Gardening' von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 7: OER Gardening von Merle Zander und twillo, lizenziert unter <a aria-describedby="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
+  <img src="images/oernds_oer_gardening_text.svg" alt="Abb. 7: OER Gardening. Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" title="Abbildung 7: 'OER Gardening' von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 7: OER Gardening von Merle Zander und twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
 </figure>
 
 <b>Offene Standards</b><br>einfache Weiterverarbeitung durch Open Source Software
@@ -55,7 +55,7 @@ Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format DOCX dem F
 ## 3. OER sind umfassend beschrieben und automatisch auffindbar
 
 <figure>
-  <img src="images/Merkmal_auffindbar machen.svg" alt="Abb. 8: Automatische Auffindbarkeit" title="Abb. 8: Automatische Auffindbarkeit"/>
+  <img src="images/Merkmal_auffindbar machen.svg" alt="Abb. 8: Automatische Auffindbarkeit" title="Abbildung 8: Automatische Auffindbarkeit"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 8: Automatische Auffindbarkeit</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Twillo unterstützt bei der Angabe der Metadaten und begleitet die Veröffentlic
 ## 4. OER sind didaktisch strukturiert und kontextualisiert
 
 <figure>
-<img src="images/Merkmal_didaktisch kontextualisieren.svg" alt="Abb. 9: Didaktische Kontextualisierung" title="Abb. 9: Didaktische Kontextualisierung"/>
+<img src="images/Merkmal_didaktisch kontextualisieren.svg" alt="Abb. 9: Didaktische Kontextualisierung" title="Abbildung 9: Didaktische Kontextualisierung"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 9: Didaktische Kontextualisierung</figcaption>
 </figure>
 

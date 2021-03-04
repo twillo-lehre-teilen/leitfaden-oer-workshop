@@ -33,18 +33,18 @@ for (var i = 0; i < acc.length; i++) {
 </script>
 
 <div>
-  <button class="accordion">Schritt 1: Material finden</button>
+  <button aria-label="zu Schritt 1" class="accordion">Schritt 1: Material finden</button>
   <div class="panel">
    <p> Recherchieren Sie im Internet nach interessanten Lehr-/Lernmaterialien ihres Faches/ihrer Disziplin, die CC-lizenziert sind. Legen Sie ein besonderes Augenmerk darauf, dass eine kostenfreie Verwendung, Veränderung und Weiterverbreitung des Materials zulässig ist.
 
 Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit auf das Auffinden von OER ausgerichtet sind oder Internetseiten wählen, die offen lizenzierte Materialien bereitstellen. Dies sind z.B. 
    
   <ul>
-    <li> OERSI (<a aria-describedby="Link zur OERSI-Seite" href="http://oersi.de/" target="_blank">oersi.de</a>, derzeit in der Beta-Phase)</li>
-    <li> OERhörnchen (<a aria-describedby="Link zur OER-Hörnchen-Seite" href="http://oerhoernchen.de/" target="_blank">oerhoernchen.de</a>)</li>
-    <li> CCsearch (<a aria-describedby="Link zur CC-Search-Seite" href="http://ccsearch.creativecommons.org/" target="_blank">ccsearch.creativecommons.org</a>)</li>
-    <li> Wikimedia Commons (<a aria-describedby="Link zu Wikimedia Commons" href="http://commons.wikimedia.org/" target="_blank">commons.wikimedia.org</a>)</li>
-    <li> X5GON (<a aria-describedby="Link zur X5GON-Seite" href="http://discovery.x5gon.org/" target="_blank">discovery.x5gon.org</a>, derzeit in der Beta-Phase)</p>
+    <li> OERSI (<a aria-label="Link zur OERSI-Seite" href="http://oersi.de/" target="_blank">oersi.de</a>, derzeit in der Beta-Phase)</li>
+    <li> OERhörnchen (<a aria-label="Link zur OER-Hörnchen-Seite" href="http://oerhoernchen.de/" target="_blank">oerhoernchen.de</a>)</li>
+    <li> CCsearch (<a aria-label="Link zur CC-Search-Seite" href="http://ccsearch.creativecommons.org/" target="_blank">ccsearch.creativecommons.org</a>)</li>
+    <li> Wikimedia Commons (<a aria-label="Link zu Wikimedia Commons" href="http://commons.wikimedia.org/" target="_blank">commons.wikimedia.org</a>)</li>
+    <li> X5GON (<a aria-label="Link zur X5GON-Seite" href="http://discovery.x5gon.org/" target="_blank">discovery.x5gon.org</a>, derzeit in der Beta-Phase)</p>
   </ul>
   Selbstverständlich können Sie für Ihre Recherche auch die üblichen Suchmaschinen oder Plattformen (z.B. Google und YouTube) nutzen. Um den Prozess zu vereinfachen, richten Sie Ihre Suche gezielt auf eine gewünschte Lizenz aus.
 
@@ -59,11 +59,11 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
   </figure>
   <b>Youtube</b>: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option "Filter" und schränken Sie die Ergebnisse im Bereich "Eigenschaften" durch die Wahl der Option "Creative Commons" ein (s. Abb. 13).
   <figure>
-    <img src="images/YouTube.svg" alt="Abb. 13: Screenshot Youtube-Suchfilter" title="Abb. 13: Screenshot YouTube-Suchfilter"/>
+    <img src="images/YouTube.svg" alt="Abb. 13: Screenshot Youtube-Suchfilter" title="Abbildung 13: Screenshot YouTube-Suchfilter"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot YouTube-Suchfilter</figcaption>
   </figure>
   </div>
-  <button class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
+  <button aria-label="zu Schritt 2" class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
   <div class="panel">
     <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Beginnen Sie mit der Lizenz.
     Auf OER sollten Sie einen eindeutigen Lizenzhinweis finden. Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein.
@@ -89,7 +89,7 @@ Ein korrekter CC-Lizenzhinweis <b>muss</b> folgende Punkte enthalten:
 Die folgende Abbildung zeigt ein Beispiel für einen CC BY (4.0)-Lizenzhinweis, der die verpflichtenden Angaben enthält.
 
 <figure>
-  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 14: Pflichtangaben in Lizenzhinweisen" title="Abb. 14: Pflichtangaben in Lizenzhinweisen"/>
+  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 14: Pflichtangaben in Lizenzhinweisen" title="Abbildung 14: Pflichtangaben in Lizenzhinweisen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 14: Pflichtangaben in Lizenzhinweisen</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
 Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
   
 <figure>
-  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 15: Ausführlicher Lizenzhinweis" title="Abb. 15: Ausführlicher Lizenzhinweis"/>
+  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 15: Ausführlicher Lizenzhinweis" title="Abbildung 15: Ausführlicher Lizenzhinweis"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 15: Ausführlicher Lizenzhinweis</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
 > Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
   </p>
   </div>
-  <button class="accordion">Schritt 3: Dateiformat prüfen</button>
+  <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Dateiformat prüfen</button>
   <div class="panel">
    <p>Wenden Sie sich in diesem Schritt dem Dateiformat zu. Prüfen Sie, ob das Dokument in einem offenen Dateiformat vorliegt, das eine direkte Bearbeitung erlaubt.
 
@@ -125,27 +125,27 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
 
   Wie Sie die das Material auf twillo teilen, erfahren Sie in den nächsten Schritten.</p>
   </div>
-  <button class="accordion">Schritt 4: Anmeldung auf twillo</button>
+  <button aria-label="zu Schritt 4" class="accordion">Schritt 4: Anmeldung auf twillo</button>
   <div class="panel">
    <p>Um das Material auf twillo einzustellen, melden Sie sich im Portal an.
      <figure>
-      <img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 16: Twillo Workflow" title="Abb. 16: Twillo Workflow"/>
+      <img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 16: Twillo Workflow" title="Abbildung 16: Twillo Workflow"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 16: Twillo Workflow</figcaption>
      </figure>
-     Rufen Sie den Link <a aria-describedby="Link zum OER-Portal" href="https://www.oernds.de/oer/" target="_blank">oer-nds.de</a> auf und gehen Sie über den Punkt *Zum   Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-describedby="Link zu Twillo" href="https://www.oernds.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
+     Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.oernds.de/oer/" target="_blank">oer-nds.de</a> auf und gehen Sie über den Punkt *Zum   Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-label="Link zu Twillo" href="https://www.oernds.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
 
-   Angehörigen von Hochschulen, die <a aria-describedby="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
+   Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
 
   Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
   <figure>
-    <video style="width:100%;" controls>
+    <video aria-label="Video "Zugang zum Twillo-Portal"" style="width:100%;" controls>
       <source src="videos/DFN_Zugang.mp4" type="video/mp4">
     </video>
     <figcaption style="text-align:center;font-size:14px;">Video 2: Twillo-Zugang über DFN</figcaption>
   </figure>
   </p>
   </div>
-  <button class="accordion">Schritt 5: Material einstellen</button>
+  <button aria-label="zu Schritt 5" class="accordion">Schritt 5: Material einstellen</button>
   <div class="panel">
    <p>Sie haben auf twillo grundsätzlich die Möglichkeit, Materialien zu verlinken oder hochzuladen. 
 
@@ -158,19 +158,19 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
   Unabhängig davon, ob Sie Material verlinkt oder hochgeladen haben, folgt im nächsten Schritt die Angabe von Metadaten. Diese dienen zum einen der Beschreibung der Materialien und sorgen zum anderen dafür, dass das Material gefunden werden kann.
   </p>
   </div>
-  <button class="accordion">Schritt 6: Bildungsmaterial auffindbar machen</button>
+  <button aria-label="zu Schritt 6" class="accordion">Schritt 6: Bildungsmaterial auffindbar machen</button>
   <div class="panel">
    <p>Beschreiben Sie das Material möglichst mit den Informationen, die Sie am Material finden.
      
 <figure>
-  <img src="images/Navigation_twillo.svg" alt="Abb. 17: Screenshot Navigation twillo" title="Abb. 17: Screenshot Navigation twillo "/>
+  <img src="images/Navigation_twillo.svg" alt="Abb. 17: Screenshot Navigation twillo" title="Abbildung 17: Screenshot Navigation twillo "/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot Navigation twillo </figcaption>
 </figure>
 
 Im Abschnitt <l>Lizenz</l> übernehmen Sie genau die Lizenz, die das Material aufweist. Geben Sie bei der Urheberangabe im Reiter <l>Autoren und Beteiligte</l> auch die Autor/*innen als Urheber/*inen an. Sollte es sich um ein gemeinfreies Werk oder CC 0-lizenziertes Werk handeln, können Sie den Namen, sofern bekannt, unter <l>freie Urheberangabe</l> oder <l>Autoren & Beteiligte</l> angeben.
 
 <figure>
-  <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 18: Screenshot Urheberangabe twillo " title="Abb. 18: Screenshot Urheberangabe twillo "/>
+  <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 18: Screenshot Urheberangabe twillo " title="Abbildung 18: Screenshot Urheberangabe twillo "/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot Urheberangabe twillo </figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> li
 Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Schlagworte</b> fest, um die Auffindbarkeit Ihres Material in der  zielgerichteten Suche zu erhöhen.
   </p>
   </div>
-  <button class="accordion">Schritt 7: Bildungsmaterial kontextualisieren</button>
+  <button aria-label="zu Schritt 7" class="accordion">Schritt 7: Bildungsmaterial kontextualisieren</button>
   <div class="panel">
     <p>Im Abschnitt <b>Didaktik</b> können Sie weitere didaktische Kontextinformationen für Nutzer*innen des Portals angeben. Die hier ausgewählten Beschreibungskategorien können insbesondere bei der zielgerichteten Materialsuche für den eigenen Lehrkontext behilflich sein.
 
@@ -223,7 +223,7 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
 </ul>
   </p>
   </div>
-  <button class="accordion">Schritt 8: Material freigeben</button>
+  <button aria-label="zu Schritt 8" class="accordion">Schritt 8: Material freigeben</button>
   <div class="panel">
    <p>Erst mit der Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
 
@@ -236,7 +236,7 @@ Sie gehen Sie über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren i
 Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer\*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
 
 <figure>
-  <img src="images/Freigabe_twillo.svg" alt="Abb. 19: Screenshot Freigabe twillo " title="Abb. 19: Screenshot Freigabe twillo "/>
+  <img src="images/Freigabe_twillo.svg" alt="Abb. 19: Screenshot Freigabe twillo " title="Abbildung 19: Screenshot Freigabe twillo "/>
    <figcaption style="text-align:center;font-size:14px;">Abb. 19: Screenshot Freigabe twillo</figcaption>
 </figure>
   </p>
@@ -245,6 +245,6 @@ Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer\*innen aus dem Worksho
 
 <br>
 <form action="#/motivation_a.md">
- <button type="submit">Fertig</button>
+ <button aria-label="Button: Fertig" type="submit">Fertig</button>
 </form>
 

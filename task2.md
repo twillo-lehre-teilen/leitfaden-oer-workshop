@@ -69,7 +69,7 @@ Beachten Sie:
 
 > &#9888;&#65039; Enthält Ihr Material CC-lizenzierte Inhalte oder Werke, dann beachten Sie die Lizenzbestimmungen und richten Sie sich nach den Nutzungsbedingungen. Die Lizenzangaben sind dann mitzuführen <font color="#54B6B5;">(s. Kapitel Urherberrecht und offene Lizenzen)</font>.</p>
   </div>
-  <button class="accordion">Schritt 3: Lizenztext und Lizenzversion wählen</button>
+  <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Lizenztext und Lizenzversion wählen</button>
   <div class="panel">
    <p>In diesem Schritt müssen Sie auswählen, welche Creative Commons-Lizenz zum Material passt. Überlegen Sie, welche Nutzungsrechte Sie anderen Personen einräumen möchten. Was ist Ihnen wichtig?
   
@@ -115,7 +115,7 @@ Das Video Lizenzhinweise am eigenem Material zeigt, worauf bei der Lizenzierung 
 
 <figure>
 <video style="width:100%;" controls>
- <source src="videos/Lizenzangaben an eigenen Bildungsmaterialien.mp4" type="video/mp4">
+ <source src="videos/Lizenzangaben an eigenen Bildungsmaterialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben an eigenen Bildungsmaterialien">
  </video>
  <figcaption style="text-align:center;font-size:14px;">Video 1: Lizenzhinweise am eigenem Material</figcaption>
 </figure>
@@ -124,14 +124,14 @@ In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien<
 
 <figure>
 <video style="width:100%;" controls>
- <source src="videos/Lizenzangaben_bei_eingebundenen_fremden_Materialien.mp4" type="video/mp4">
+ <source src="videos/Lizenzangaben_bei_eingebundenen_fremden_Materialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben bei eingebundenen fremden Materialien">
  </video>
  <figcaption style="text-align:center;font-size:14px;">Video 2: Lizenzangaben bei eingebundenen fremden Materialien von twillo, lizenziert unter CC BY (4.0)</figcaption>
 </figure>
 
 <figure>
 <video style="width:100%;" controls>
- <source src="videos/Lizenzangaben_bei_bearbeiteten_Materialien.mp4" type="video/mp4">
+ <source src="videos/Lizenzangaben_bei_bearbeiteten_Materialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben bei bearbeiteten Materialien">
  </video>
  <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialienvon twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY (4.0)</a></figcaption>
 </figure>
@@ -140,31 +140,31 @@ In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien<
 Wenn Sie einzelne Inhalte oder Werke entsprechend der lizenzrechtlichen Vorgaben bearbeitet haben (z.B. Designanpassung oder inhaltliche Ergänzungen), dann kennzeichnen Sie dies im Lizenzhinweis und prüfen, welche Lizenzbedingungen am verwendeten Ursprungswerk gelten! Wenn Sie z.B. auf ein Material aufbauen, dass unter der Lizenz CC BY SA steht, dann müssen Sie das neu entstandene Werk ebenfalls unter dieser Lizenz stellen.
   </p>
   </div>
-  <button class="accordion">Schritt 4: Bildungsmaterial im offenen Dateiformat speichern</button>
+  <button aria-label="zu Schritt 4" class="accordion">Schritt 4: Bildungsmaterial im offenen Dateiformat speichern</button>
   <div class="panel">
    <p>In diesem Schritt überprüfen Sie, ob Ihr Material in einem offenen Dateiformat vorliegt. Durch die Verwendung von offenen oder weitverbreiteteten Formaten, ermöglichen Sie es Dritten Ihr Material herunterzuladen und es direkt zu bearbeiten. Überlegen Sie, ob Sie Ihr Material aus besonderen Gründen in mehreren Dateiformaten bereitstellen möchten (Layout, Kompatibilität, etc.)</p>
   </div>
-  <button class="accordion">Schritt 5: Anmeldung auf twillo</button>
+  <button aria-label="zu Schritt 5" class="accordion">Schritt 5: Anmeldung auf twillo</button>
   <div class="panel">
    <p>Um das Material auf twillo einzustellen, melden Sie sich im Portal an.
      <figure>
       <img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 13: Twillo Workflow" title="Abb. 13: Twillo Workflow"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 13: Twillo Workflow</figcaption>
      </figure>
-     Rufen Sie den Link <a aria-describedby="Link zum OER-Portal" href="https://www.oernds.de/oer/" target="_blank">oer-nds.de</a> auf und gehen Sie über den Punkt *Zum   Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-describedby="Link zu Twillo" href="https://www.oernds.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
+     Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.oernds.de/oer/" target="_blank">oer-nds.de</a> auf und gehen Sie über den Punkt *Zum   Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-label="Link zu Twillo" href="https://www.oernds.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
 
-   Angehörigen von Hochschulen, die <a aria-describedby="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
+   Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
 
   Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
   <figure>
     <video style="width:100%;" controls>
-      <source src="videos/DFN_Zugang.mp4" type="video/mp4">
+      <source src="videos/DFN_Zugang.mp4" type="video/mp4" aria-label"Video: Zugang zum Twillo-Portal">
     </video>
     <figcaption style="text-align:center;font-size:14px;">Video 4: Twillo-Zugang über DFN</figcaption>
   </figure>
   </p>
   </div>
-  <button class="accordion">Schritt 6: Material einstellen</button>
+  <button aria-label="zu Schritt 6" class="accordion">Schritt 6: Material einstellen</button>
   <div class="panel">
   <p>Der Einstellungsprozess wird, nachdem Sie auf die Buttonfläche <b>NEU</b> geklickt haben, durch Dialoge unterstützt. Wählen Sie <b>neues Material</b> aus und laden Sie Ihr Material hoch oder verlinken es. Verlinkungen sind dann möglich, wenn Sie das Material bereits auf anderen Plattformen (z.B. YouTube, Wikipedia, GitHub/GitLab etc.) veröffentlicht haben. Wenn Sie den Vorgang gespeichert haben, dann befindet sich das Material in Ihrem <b>Workspace</b>.
   
@@ -172,21 +172,21 @@ Sie haben jederzeit die Möglichkeit, Änderungen in den Beschreibungen vorzuneh
 
 &#x1F4A1; Bis zur aktiven Freigabe (Schritt 9) bleibt ihr Material nur für Sie sichtbar.</p>
   </div>
-  <button class="accordion">Schritt 7: Bildungsmaterial auffindbar machen</button>
+  <button aria-label="zu Schritt 7" class="accordion">Schritt 7: Bildungsmaterial auffindbar machen</button>
   <div class="panel">
    <p>Beschreiben Sie das Material möglichst mit den Informationen, die Sie am Material finden.
     <figure>
-      <img src="images/Navigation_twillo.svg" alt="Abb. 14: Screenshot Navigation twillo" title="Abb. 14: Screenshot Navigation twillo "/>
+      <img src="images/Navigation_twillo.svg" alt="Abb. 14: Screenshot Navigation twillo" title="Abbildung 14: Screenshot Navigation twillo "/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 14: Screenshot Navigation twillo </figcaption>
     </figure>
      Im Abschnitt <b>Lizenz</b> geben Sie die Urheber*innen an. Dort sollte, wenn Sie sich für ein Lizenzmodul mit der Attribution <b>BY</b> entschieden haben, der Reiter <b>Autoren & Beteiligte</b> gewählt werden. Den Reiter Freihe Urheberangabe sollten Sie nur dann anwählen, wenn Sie ihr Material unter der Lizenz CC 0 veröffentlichen möchten.
     <figure>
-      <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 15: Screenshot Urheberangabe twillo " title="Abb. 15: Screenshot Urheberangabe twillo "/>
+      <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 15: Screenshot Urheberangabe twillo " title="Abbildung 15: Screenshot Urheberangabe twillo "/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 15: Screenshot Urheberangabe twillo </figcaption>
     </figure>
 Damit die Lizenz auch maschinell ausgelesen werden kann, muss nun auch hier die Lizenzangabe festgelegt werden. Hierfür öffnen Sie den Bereich Lizenz verwalten und wählen die gewünschte Lizenz mit Lizenzversion.
      <figure>
-      <img src="images/Screenshot_Lizenzangabe_twillo.svg" alt="Abb. 16: Screenshot Lizenzangabe twillo" title="Abb. 16: Screenshot Lizenzangabe twillo"/>
+      <img src="images/Screenshot_Lizenzangabe_twillo.svg" alt="Abb. 16: Screenshot Lizenzangabe twillo" title="Abbildung 16: Screenshot Lizenzangabe twillo"/>
       <figcaption style="text-align:center;font-size:14px;">Abb. 16: Screenshot Lizenzangabe twillo</figcaption>
     </figure>
 
@@ -204,13 +204,13 @@ Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> li
 > <b>Aufgabenorientierte Materialien</b><br>
 > zusätzliche Materialien zum Aufgabenelement, etwa Musterlösungen, Best-Practice-Beispiele oder dokumentierte Hilfestellungen, können mit der <b>Serienfunktion</b> ergänzt werden.
 > <figure>
->   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 17: Screenshot Serienfunktion twillo " title="Abb. 17: Screenshot Serienfunktion twillo "/>
+>   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 17: Screenshot Serienfunktion twillo " title="Abbildung 17: Screenshot Serienfunktion twillo "/>
 >    <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot Serienfunktion twillo</figcaption>
 > </figure>
 
 Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Schlagworte</b> fest, um die Auffindbarkeit Ihres Material in der  zielgerichteten Suche zu erhöhen.</p>
   </div>
-  <button class="accordion">Schritt 8: Bildungsmaterial kontextualisieren</button>
+  <button aria-label="zu Schritt 8" class="accordion">Schritt 8: Bildungsmaterial kontextualisieren</button>
   <div class="panel">
   <p>Im Abschnitt <b>Didaktik</b> können Sie weitere didaktische Kontextinformationen für Nutzer*innen des Portals angeben. Die hier ausgewählten Beschreibungskategorien können insbesondere bei der zielgerichteten Materialsuche für den eigenen Lehrkontext behilflich sein.
 
@@ -237,7 +237,7 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
   </ol>
 </ul></p>
   </div>
-  <button class="accordion">Schritt 9: Material freigeben</button>
+  <button aria-label="zu Schritt 9" class="accordion">Schritt 9: Material freigeben</button>
   <div class="panel">
    <p>Erst mit der Freigabe veröffentlichen Sie Ihr Material auf twillo. Hierfür gibt es zwei Wege.
 
@@ -253,7 +253,7 @@ Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren in de
 Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
 
 <figure>
-  <img src="images/Freigabe_twillo.svg" alt="Abb. 18: Screenshot Freigabe twillo " title="Abb. 18: Screenshot Freigabe twillo "/>
+  <img src="images/Freigabe_twillo.svg" alt="Abb. 18: Screenshot Freigabe twillo " title="Abbildung 18: Screenshot Freigabe twillo "/>
    <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot Freigabe twillo</figcaption>
 </figure>
   </p>
@@ -262,5 +262,5 @@ Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop
 
 <br>
 <form action="#/motivation_b.md">
- <button type="submit">Fertig</button>
+ <button aria-label="Button: fertig" type="submit">Fertig</button>
 </form>

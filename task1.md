@@ -138,8 +138,8 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
 
   Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
   <figure>
-    <video aria-label="Video "Zugang zum Twillo-Portal"" style="width:100%;" controls>
-      <source src="videos/DFN_Zugang.mp4" type="video/mp4">
+    <video style="width:100%;" controls>
+      <source src="videos/DFN_Zugang.mp4" type="video/mp4" aria-label="Video: Bei Twillo anmelden">
     </video>
     <figcaption style="text-align:center;font-size:14px;">Video 2: Twillo-Zugang über DFN</figcaption>
   </figure>

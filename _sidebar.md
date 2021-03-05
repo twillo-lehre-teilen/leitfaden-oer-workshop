@@ -5,8 +5,6 @@
 * [Übersicht](./)
 
 * [Lessons Learned](lessons_learned.md)
-  
-  * <a aria-label="Link zur Seite: Urheberrechte und Lizenzen." href="#/urheberechte_und_lizenzen.md">Urheberrecht und offene Lizenzen</a>
 
   * [Chancen von OER in der Hochschullehre](chancen.md)
   

@@ -1,7 +1,7 @@
 # Quellen
 
 	
-<b>DIPF - Leibniz-Institut für Bildungsforschung und Bildungsinformation (Hrsg.)(o.J.):</b> OER Info - Informationsstelle Open Educational Resources, online: https://open-educational-resources.de/ (05.02.2021).
+<b>DIPF - Leibniz-Institut für Bildungsforschung und Bildungsinformation (Hrsg.)(o.J.):</b> OER Info - Informationsstelle Open Educational Resources, online: <a aria-label="Link zur Quelle: Informationsstelle Open Educational Resources" href="https://open-educational-resources.de/ "</a>(05.02.2021).
 
 <b>DUK - Deutsche UNESCO-Kommision e. V. (Hrsg.) (2015):</b> Leitfaden zu Open Educational Resources in der Hochschulbildung. Empfehlungen für Politik, Hochschulen, Lehrende und Studierende. Online: https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf (08.01.2021).
 

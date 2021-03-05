@@ -4,7 +4,7 @@
 
 * [Übersicht](./)
 
-*  <a aria-label="Link zum ersten Kapitel" href="#lessons_learned.md">ersten Kapitel "Lessons Learned"</a>
+*  <a aria-label="Link zum ersten Kapitel" href="lessons_learned.md">ersten Kapitel "Lessons Learned"</a>
 
 * [Lessons Learned](lessons_learned.md)
 

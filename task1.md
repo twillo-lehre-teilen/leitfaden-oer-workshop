@@ -79,7 +79,7 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
 > <b>Lizenzicon:</b><br>
 > Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. 
   
-Bei der <b>Nachnutzung</> von OER <b>muss</b> ein CC-Lizenzhinweis folgende Punkte enthalten:
+Nutzen Sie OER anderer Urheber*/innen bzw. Rechteinhaber*/innen nach oder teilen Sie sie, müssen Sie einen Lizenzhinweis setzen, der folgende Punkte enthält:
 <ul>
   <li><b>Lizenz und Lizenzversion</b></li>
   <li><b>Verweis zum Lizenztext</b> (z. B. Verlinkung oder ausgeschriebener Link)</li>

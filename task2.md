@@ -147,13 +147,15 @@ Wenn Sie einzelne Inhalte oder Werke entsprechend der lizenzrechtlichen Vorgaben
   <button aria-label="zu Schritt 5" class="accordion">Schritt 5: Anmeldung auf twillo</button>
   <div class="panel">
    <p>Um das Material auf twillo einzustellen, melden Sie sich im Portal an.
-     <figure>
-      <img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 13: Twillo Workflow" title="Abb. 13: Twillo Workflow"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 13: Twillo Workflow</figcaption>
-     </figure>
+    
      Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.oernds.de/oer/" target="_blank">oer-nds.de</a> auf und gehen Sie über den Punkt *Zum   Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-label="Link zu Twillo" href="https://www.oernds.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
 
-   Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
+   Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein (s. Abb. 13). Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
+   
+   <figure>
+  <img src="images/twillo-Login-per-DFN.svg" alt="Abb. 13: Anmeldung DFN" title="Abbildung 13: Anmeldung DFN"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. 13: twillo-Anmeldung über DFN</figcaption>
+</figure>
 
   Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
   <figure>

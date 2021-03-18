@@ -137,7 +137,7 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
    Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich (s. Abb. 16). Wählen Sie unter Einloggen hierfür die Option <b>Zur Hochschulauswahl</b>. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt (s. Abb.16).
    
 <figure>
-  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 16: Anmeldung DFN" title="Abbildung 16: Anmeldung DFN"/>
+  <img src="images/twillo-Login-per-DFN.svg" alt="Abb. 16: Anmeldung DFN" title="Abbildung 16: Anmeldung DFN"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 16: twillo-Anmeldung über DFN</figcaption>
 </figure>
 

@@ -128,11 +128,8 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
   <button aria-label="zu Schritt 4" class="accordion">Schritt 4: Anmeldung auf twillo</button>
   <div class="panel">
    <p>Um das Material auf twillo einzustellen, melden Sie sich im Portal an.
-     <figure>
-      <img src="images/OER-Portal_Workflow_Grafik.svg" alt="Abb. 16: Twillo Workflow" title="Abbildung 16: Twillo Workflow"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 16: Twillo Workflow</figcaption>
-     </figure>
-     Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.twillo.de/oer/" target="_blank">twillo.de</a> auf und gehen Sie über den Punkt *Zum Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-label="Link zu Twillo" href="https://www.twillo.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
+     
+Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.twillo.de/oer/" target="_blank">twillo.de</a> auf und gehen Sie über den Punkt *Zum Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-label="Link zu Twillo" href="https://www.twillo.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
 
    Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich (s. Abb. 16). Wählen Sie unter Einloggen hierfür die Option <b>Zur Hochschulauswahl</b>. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt (s. Abb.16).
    

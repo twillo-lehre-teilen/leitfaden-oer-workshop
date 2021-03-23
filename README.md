@@ -1,6 +1,4 @@
 <center>
-  
-  <iframe src="https://wordwall.net/embed/83a21a2dc98f48e7b8fdf40b78ee7cdf?themeId=52&templateId=8" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 
 # Herzlich Willkommen
 

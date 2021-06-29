@@ -126,8 +126,9 @@ Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müsse
   </tr>
 </table>
 
-<font size="3">Tabelle TULLU+B von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font> <br>
-    In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien</b> im eigenem Bildungsmaterial verfahren wird und was Sie beachten müssen, wenn Sie <b>fremde Materialien bearbeiten</b>.
+<font size="3">Tabelle TULLU+B von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font> 
+    <br>
+    In folgendem Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien</b> im eigenem Bildungsmaterial verfahren wird und was Sie beachten müssen, wenn Sie <b>fremde Materialien bearbeiten</b>.
 
 <figure>
 <video style="width:100%;" controls>
@@ -144,7 +145,7 @@ Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müsse
 </figure>
 
     
-    </p>
+   
   </div>
   <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Lizenztext und Lizenzversion wählen</button>
   <div class="panel">

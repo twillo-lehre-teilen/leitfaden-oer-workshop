@@ -149,7 +149,6 @@ In folgendem Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materiali
   <div class="panel">
    <p>In diesem Schritt müssen Sie auswählen, unter welche Creative Commons-Lizenz Sie Ihr Material stellen möchten. Überlegen Sie hierfür, welche Nutzungsrechte Sie anderen Personen einräumen möchten. Was ist Ihnen wichtig?
 <br>
-<br>
 
 > &#x1F4A1; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
 > 
@@ -157,30 +156,23 @@ In folgendem Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materiali
 > 
 > Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
 
-Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis gut sichtbar auf Ihrem Material. Bei einem Skript können Sie ihn z.B. auf der ersten Seite positionieren, bei einen Foliensatz auf der Titel- oder auf der Abschlussfolie. Beachten Sie bitte folgenden Punkte:
+Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis gut sichtbar auf Ihrem Material. Bei einem Skript können Sie ihn z.B. auf der ersten Seite positionieren, bei einen Foliensatz auf der Titel- oder auf der Abschlussfolie. 
 
-<li><b>Lizenz:</b>
-    <br>
-    Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel: unter der Lizenz CC BY 4.0</li>
-<li><b>Verweis zum Lizenztext:</b>
-    <br>
-    Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: <a aria-label="Link zu Creative Commons Namensnennung 4.0" href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a></li>
-<li>Haben Sie sich für die Attribution <b>BY</b> entschieden, dann geben Sie im Lizenzhinweis auch die Namen aller Urheber:innen bzw. Rechteinhaber:innen an. Auch der Name einer Organisation/Institution ist zulässig (z.B: twillo, CC BY 4.0), sofern diese die Rechte am Werk besitzt.</li>
-
-Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis, der die verpflichtenden Angaben enthält.
+Folgende Punkte sind für eine korrekte Lizenzierung Ihres eigenen Materials zu beachten:
+<li><b>Lizenz und Lizenzversion:</b> Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel "lizenziert unter CC BY 4.0"</li>
+<li>Urheber:innen: Haben Sie sich für das Lizenzmodl <b>BY</b> entschieden, stellen Sie, sicher, dass die Namen aller Urheber:innen bzw. Rechteinhaber:innen an Ihrem Material angegeben sind. Auch der Name einer Organisation, Institution oder Projektgruppen ist zulässig, sofern diese die Rechte am Werk besitzen.</li>
+<li><b>Titel des Werks: </b>Bei der Lizenzversionen 3.0 und Ihren Vorgängerversionen muss der Titel des Werks erkennbar sein. Ab der Lizenzversion 4.0 ist dies nicht mehr erforderlich</li>.
+<br>
+<br>
+Um dritten die Nachnutzung Ihres Materials zu erleichtern, können Sie zudem folgende Angaben in den Lizenzhinweis aufnehmen: 
+<li><b>Link zum Lizenztext:</b> Setzen Sie einen Verweis zu der Lizenz. Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) kann der Link auch ausgeschrieben werden.
+<li><b>Lizenzicon:</b> Für den Wiedererkennungswert kann das Lizenzicon mitgeführt werden. Auf der Webseite von Creative Commons können Sie das entsprechende Lizenzicon kopieren und neben dem Lizenzhinweis positionieren.</li>
+<li><b>Ausnahmeregelungen oder weitere Hinweise</b>: Nehmen Sie ggf. Informationen auf, die Dritte bei der Nachnutzung Ihres Materials beachten müssen</li>
 
 <figure>
   <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 11: Pflichtangaben in Lizenzhinweisen" title="Abbildung 11: Pflichtangaben in Lizenzhinweisen"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 11: Pflichtangaben in Lizenzhinweisen</figcaption>
 </figure>
-
-Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
-
-<li><b>Titel und Art des Werks</b> (nur bei Version 4.0, bei Vorgängerversionen sollten Sie den Titel anführen)</li>
-<li><b>Lizenzicon:</b>
-    <br>
-    Für den Wiedererkennungswert kann das Lizenzicon mitgeführt werden. Auf der Webseite von Creative Commons können Sie das entsprechende Lizenzicon kopieren und es an den      Lizenztext  positionieren.</li>
-<li><b>Ausnahmeregelungen oder weitere Hinweise</b> (z.B. bzgl. der Nachnutzbarkeit der Materialien)</li>
 
 Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
 

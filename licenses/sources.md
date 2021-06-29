@@ -11,6 +11,6 @@
 
 <b>Muuß-Merholz, J. (2015):</b> UNESCO veröffentlicht neue Definition zu OER (Übersetzung auf Deutsch), online: <a aria-label="Link zur Quelle" href="https://open-educational-resources.de/unesco-definition-zu-oer-deutsch/" target="_blank">https://open-educational-resources.de/unesco-definition-zu-oer-deutsch/</a> (03.02.2021).
 
-<b>OER Portal Niedersachsen (Hrsg.) (2021):</b> Rechtliches - OER nutzen, teilen & erstellen, online: <a aria-label="Link zur Quelle" href="https://www.oernds.de/oer/legal.html" target="_blank">https://www.oernds.de/oer/legal.html</a> (08.02.2021).
+<b>twillo (Hrsg.) (2021):</b> Rechtliches - OER nutzen, teilen & erstellen, online: <a aria-label="Link zur Quelle" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">https://www.twillo.de/oer/web/rechtliches/</a> (08.02.2021).
 
 <b>UNESCO (Hrsg.) (2019):</b> Open Educational Resources (OER), online: <a aria-label="Link zur Quelle" href="https://en.unesco.org/themes/building-knowledge-societies/oer" target="_blank">https://en.unesco.org/themes/building-knowledge-societies/oer</a> (03.02.2021).

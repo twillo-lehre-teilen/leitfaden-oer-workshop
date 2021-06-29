@@ -145,10 +145,12 @@ In folgendem Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materiali
  <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialien von twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a></figcaption>
 </figure>  
   </div>
-  <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Lizenztext und Lizenzversion wählen</button>
+  <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Lizenz und Lizenzversion wählen</button>
   <div class="panel">
-   <p>In diesem Schritt müssen Sie auswählen, welche Creative Commons-Lizenz zum Material passt. Überlegen Sie, welche Nutzungsrechte Sie anderen Personen einräumen möchten. Was ist Ihnen wichtig?
-  
+   <p>In diesem Schritt müssen Sie auswählen, unter welche Creative Commons-Lizenz Sie Ihr Material stellen möchten. Überlegen Sie hierfür, welche Nutzungsrechte Sie anderen Personen einräumen möchten. Was ist Ihnen wichtig?
+<br>
+<br>
+
 > &#x1F4A1; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
 > 
 > Materialien mit einer möglichst offenen Lizenz (CC 0, CC BY und CC BY SA) sind auf twillo besonders willkommen, da diese eine einfache Verwendung, Veränderung und Weiterverbreitung ermöglichen und somit der grundsätzlichen Idee von OER entsprechen.

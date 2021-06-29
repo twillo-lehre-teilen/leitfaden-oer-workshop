@@ -65,20 +65,17 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
   </div>
   <button aria-label="zu Schritt 2" class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
   <div class="panel">
-    <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Sie sollten einen eindeutigen <b>Lizenzhinweis</b> finden.  Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein.
+    <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Beginnen Sie mit der Lizenz. Sie sollten einen eindeutigen <b>Lizenzhinweis</b> finden.  Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein. Damit Sie das gefundene Material auf twillo teilen können, muss der Lizenzhinweis zumindest eine Information zu der <b>Lizenz</b> und der <b>Lizenzversion</b> (z.B. 2.0, 3.0 oder 4.0) enthalten, unter der das Material veröffentlicht wurde. Enthält die Lizenz das Modul <b>BY</b> müssen auch die Autor:innen ersichtlich sein. 
+   
+> &#128161; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
+>
+> Alle Materialien, die CC-lizenziert sind, dürfen Sie grundsätzlich im Portal einstellen. Materialien mit einer möglichst offenen Lizenz (CC 0, CC BY und CC BY SA) sind besonders willkommen, da diese eine einfache Verwendung, Veränderung und Weiterverbreitung ermöglichen und somit der grundsätzlichen Idee von OER entsprechen.
+>
+> Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
+      
+<b>Exkurs: Einbindung fremder OER in eigene Werke</b>
 
-> &#128161; <b>Was ist was?</b>
-> <br><br>
-> <b>Lizenztext:</b><br>
-> Der Lizenztext macht deutlich, welche Nutzungsbedingungen beim jeweiligen Material gelten und welcher Nutzungsgrad bei der Verwendung zulässig ist.
-> <br><br>
-> <b>Lizenzversion:</b><br>
-> Die unterschiedlichen Versionen (2.0, 3.0 bzw. 4.0) zeigen die durchlaufenen Revisionsprozesse der CC-Lizenzmodule an.
-> <br><br>
-> <b>Lizenzicon:</b><br>
-> Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. 
-  
-Binden Sie OER anderer Urheber:innen bzw. Rechteinhaber:innen in eigene Werke ein, müssen Sie dies kenntlich machen.
+> Binden Sie OER anderer Urheber:innen bzw. Rechteinhaber:innen in eigene Werke ein, müssen Sie dies kenntlich machen.
 <table id="invisible">
   <tr>
     <td valign="middle" text-align="middle" width="15%">
@@ -135,13 +132,7 @@ Binden Sie OER anderer Urheber:innen bzw. Rechteinhaber:innen in eigene Werke ei
 </table>
 
 <font size="3">Tabelle TULLU+B von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font>
-  
-> &#128161; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
->
-> Alle Materialien, die CC-lizenziert sind, dürfen Sie grundsätzlich im Portal einstellen. Materialien mit einer möglichst offenen Lizenz (CC 0, CC BY und CC BY SA) sind besonders willkommen, da diese eine einfache Verwendung, Veränderung und Weiterverbreitung ermöglichen und somit der grundsätzlichen Idee von OER entsprechen.
->
-> Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
-  </p>
+    </p>
   </div>
   <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Dateiformat prüfen</button>
   <div class="panel">

@@ -118,7 +118,7 @@ Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müsse
   </tr>
   <tr>
     <td valign="middle" text-align="middle" width="10%">
-      <b><font size="10">+B</font></b>
+      <b><font size="10">+ B</font></b>
     </td>
     <td valign="middle" text-align="left" width="90%">
       Haben Sie eine <b>BEARBEITUNG</b> an dem Material vorgenommen, muss dies ebenfalls kenntlich gemacht werden.

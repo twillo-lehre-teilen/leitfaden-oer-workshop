@@ -162,7 +162,7 @@ Um Material zu lizenzieren, ist es ausreichend, einen Lizenzhinweis gut sichtbar
 <b>Folgende Punkte sind für eine korrekte Lizenzierung Ihres eigenen Materials zu beachten:</b><br>
 <li><b>Lizenz und Lizenzversion:</b> Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel "lizenziert unter CC BY 4.0" aus.</li>
      <li><b>Urheber:innenangaben:</b> Haben Sie sich für das Lizenzmodl <b>BY</b> entschieden, stellen Sie, sicher, dass die Namen aller Urheber:innen bzw. Rechteinhaber:innen an Ihrem Material angegeben sind. Auch der Name einer Organisation, Institution oder Projektgruppe ist zulässig, sofern diese die Rechte am Werk besitzt.</li>
-<li><b>Titel des Werks:</b>Bei der Lizenzversionen 3.0 und Ihren Vorgängerversionen muss der Titel des Werks erkennbar sein. Ab der Lizenzversion 4.0 ist dies nicht mehr erforderlich</li>.
+<li><b>Titel des Werks:</b> Bei der Lizenzversionen 3.0 und Ihren Vorgängerversionen muss der Titel des Werks erkennbar sein. Ab der Lizenzversion 4.0 ist dies nicht mehr erforderlich</li>.
 <br>
 <br>
 <b>Um dritten die Nachnutzung Ihres Materials zu erleichtern, können Sie zudem folgende Angaben in den Lizenzhinweis aufnehmen:</b><br> 

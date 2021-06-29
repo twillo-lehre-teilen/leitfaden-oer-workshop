@@ -4,7 +4,7 @@
 
 * [Übersicht](./)
 
-* [Lessons Learned](lessons_learned.md)
+* [1. Grundlegende Informationen zu OER](lessons_learned.md)
 
   * [Chancen von OER in der Hochschullehre](chancen.md)
   
@@ -12,7 +12,7 @@
   
   * [Urheberrechte und Lizenzen](urheberrechte_und_lizenzen.md)
 
-* [Umsetzungsleitfäden:](task_overview.md)
+* [2. Umsetzungsleitfäden:](task_overview.md)
 
   * [Aufgabe A: Bestehende OER teilen](task1.md)
   

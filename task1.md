@@ -65,7 +65,7 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
   </div>
   <button aria-label="zu Schritt 2" class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
   <div class="panel">
-    <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Beginnen Sie mit der Lizenz. Sie sollten einen eindeutigen <b>Lizenzhinweis</b> finden.  Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein. Damit Sie das gefundene Material auf twillo teilen können, muss der Lizenzhinweis zumindest eine Information zu der <b>Lizenz</b> und der <b>Lizenzversion</b> (z.B. 2.0, 3.0 oder 4.0) enthalten, unter der das Material veröffentlicht wurde. Enthält die Lizenz das Modul <b>BY</b> müssen auch die Autor:innen ersichtlich sein. 
+    <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Beginnen Sie mit der Lizenz: Ein eindeutiger <b>Lizenzhinweis</b> sollte direkt am Material oder als begleitende Information gespeichert sein. Damit Sie das gefundene Material auf twillo teilen können, muss der Lizenzhinweis zumindest eine Information zu der <b>Lizenz</b> und der <b>Lizenzversion</b> (z.B. 2.0, 3.0 oder 4.0) enthalten, unter der das Material veröffentlicht wurde. Enthält die Lizenz das Modul <b>BY</b> müssen auch die Autor:innen ersichtlich sein. 
    
 > &#128161; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
 >

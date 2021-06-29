@@ -73,9 +73,9 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
 >
 > Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
       
-<b>Exkurs: Einbindung fremder OER in eigene Werke</b>
+###### Exkurs: Einbindung fremder OER in eigene Werke
 
-> Binden Sie OER anderer Urheber:innen bzw. Rechteinhaber:innen in eigene Werke ein, müssen Sie dies kenntlich machen.
+Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müssen Sie kenntlich machen, dass es sich um fremde Inhalte handelt.</b> Analog zur klassischen Zitation im wissenschaftlichen Arbeiten gibt es bei der Nachnutzung von OER bestimmte Vorgaben. In der sogenannten "TULLU-Regel" werden diese für Sie zusammengefasst:
 <table id="invisible">
   <tr>
     <td valign="middle" text-align="middle" width="15%">

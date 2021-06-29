@@ -15,7 +15,7 @@ Im Folgenden werden diese Merkmale erläutert.
   <figcaption style="text-align:center;font-size:14px;">Abb. 4: Offene Lizenz</figcaption>
 </figure>
 
-OER sind freie Bildungsmaterialien, die mit einer <b>offenen Lizenz</b> versehen sind, die Dritten explizit <b>Nutzungsrechte</b> einräumt. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber*innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten. . 
+OER sind freie Bildungsmaterialien, die mit einer <b>offenen Lizenz</b> versehen sind, die Dritten explizit <b>Nutzungsrechte</b> einräumt. Erst durch diese offene Lizenzierung wird das Material weiterverwendbar. Die offene Lizenzierung stellt folglich das zentrale Merkmal dar, das OER kennzeichnet. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber:innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten. 
 
 <figure>
   <img src="images/Nutzungsbedingungen_design.svg" alt="Abb. 5: CC-Lizenzmodule. Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" title="Abbildung 5: CC-Lizenzmodule"/>
@@ -59,7 +59,7 @@ Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format DOCX dem F
   <figcaption style="text-align:center;font-size:14px;">Abb. 8: Automatische Auffindbarkeit</figcaption>
 </figure>
 
-Freie Bildungsmaterialien sollten möglichst einfach und mit wenig Rechercheaufwand gefunden werden und deshalb möglichst gut beschrieben sein. Hierfür sind prägnante Titel, Beschreibungen und Schlagworte, die Lizenzauszeichnung sowie die Name(n) der Autor*innen relevante Angaben. Diese Informationen werden auch Metadaten genannt und sorgen für die Möglichkeit der standardisierten, maschinellen Suche.
+Freie Bildungsmaterialien sollten möglichst einfach und mit wenig Rechercheaufwand gefunden werden und deshalb möglichst gut beschrieben sein. Hierfür sind prägnante Titel, Beschreibungen und Schlagworte, die Lizenzauszeichnung sowie die Name(n) der Autor:innen relevante Angaben. Diese Informationen werden auch Metadaten genannt und sorgen für die Möglichkeit der standardisierten, maschinellen Suche.
 
 Twillo unterstützt bei der Angabe der Metadaten und begleitet die Veröffentlichung durch eine geführte Metadatenabfrage.
 
@@ -127,5 +127,5 @@ for (var i = 0; i < acc.length; i++) {
 
 ### Didaktische Kontextualisierung
 
-Lehrende sind die Expert\*innen für ihre eigenen Lehrmaterialien. Um andere Lehrende dabei zu unterstützen, die Passung der Materialien in einen anderen Lehrkontext einzuschätzen, ist die Darlegung von Kontextinformationen zentral. Geben Sie Hinweise zu dem Veranstaltungsformat und der Zielgruppe, für die das Material primär konzipiert wurde, erläutern Sie didaktische Funktionen und hinterlassen Sie einen Erfahrungsbericht, der auf Erfolgsbedingungen bei der Materialnutzung eingeht.
+Lehrende sind die Expert:innen für ihre eigenen Lehrmaterialien. Um andere Lehrende dabei zu unterstützen, die Passung der Materialien in einen anderen Lehrkontext einzuschätzen, ist die Darlegung von Kontextinformationen zentral. Geben Sie Hinweise zu dem Veranstaltungsformat und der Zielgruppe, für die das Material primär konzipiert wurde, erläutern Sie didaktische Funktionen und hinterlassen Sie einen Erfahrungsbericht, der auf Erfolgsbedingungen bei der Materialnutzung eingeht.
 

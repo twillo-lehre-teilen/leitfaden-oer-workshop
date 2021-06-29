@@ -1,4 +1,4 @@
-# Kapitel 1: Lessons Learned
+# Kapitel 1: Grundlegende Informationen zu OER
 
 Hier fassen wir die  wichtigsten Informationen zum Thema OER noch einmal in Kürze für Sie zusammen.
 

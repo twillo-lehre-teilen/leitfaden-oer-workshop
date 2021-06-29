@@ -69,6 +69,8 @@ Das Zitatrecht (§ 51 UrhG) stellt eine gesetzliche Lizenz dar, die vertragliche
 > &#9888;&#65039; Grundsätzlich gilt: Enthält Ihr Material urheberrechtlich geschützte Inhalte oder Werke, sollten Sie diese entfernen und ggf. nach Alternativen suchen. Eine Möglichkeit ist, sie durch CC-lizenierte Inhalte zu ersetzen.
      
 ###### Einbindung fremder OER in eigene Werke
+     
+     Test Test
 
 Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müssen Sie kenntlich machen, dass es sich um fremde Inhalte handelt. Analog zur klassischen Zitation im wissenschaftlichen Arbeiten gibt es bei der Nachnutzung von OER bestimmte Vorgaben. In der sogenannten "TULLU-Regel" werden diese für Sie zusammengefasst:
 <table id="invisible">

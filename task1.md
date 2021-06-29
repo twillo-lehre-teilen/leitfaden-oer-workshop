@@ -73,65 +73,6 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
 >
 > Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
       
-###### Exkurs: Einbindung fremder OER in eigene Werke
-
-Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müssen Sie kenntlich machen, dass es sich um fremde Inhalte handelt.</b> Analog zur klassischen Zitation im wissenschaftlichen Arbeiten gibt es bei der Nachnutzung von OER bestimmte Vorgaben. In der sogenannten "TULLU-Regel" werden diese für Sie zusammengefasst:
-<table id="invisible">
-  <tr>
-    <td valign="middle" text-align="middle" width="15%">
-      <b><font size="10">T</font></b>
-    </td>
-    <td valign="middle" text-align="left" width="85%">
-      Geben Sie den TITEL des Werks an, sofern dieser angegeben ist.
-      <br>
-      <i class="fa fa-info-circle" style="color:black"></i> In der Version 4.0 der CC-Lizenzen ist der Titel eine optionale (jedoch empfohlene) Angabe.
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" text-align="middle" width="15%">
-      <b><font size="10">U</font></b>
-    </td>
-    <td valign="middle" text-align="left" width="85%">
-      Nennen Sie den/die <b>URHEBER*IN(NEN)</b>/Rechteinhaber*in(nen). Auch Gruppen, Organisationen oder Institutionen können hier genannt werden. Orientieren Sie sich bei der Angabe daran, wie der*die Urheber*in(nen) in dem Material bezeichnet ist/sind.
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" text-align="middle" width="10%">
-      <b><font size="10">L</font></b>
-    </td>
-    <td valign="middle" text-align="left" width="90%">
-      Machen Sie eine Angabe zu der <b>LIZENZ</b> und der <b>LIZENZVERSION</b>. Übernehmen Sie diese Angaben genauso, wie an dem Material, das Sie nutzen, angegeben. Hierzu zählt ggf. auch die Angabe, ob es ich um eine an die Gesetzgebung eines Landes angepasste Version der Lizenz handelt.
-      <br>
-      <i class="fa fa-info-circle" style="color:black"></i> CC-Lizenztexte durchlaufen stetig Revisionsprozesse und werden sukzessive aktualisiert. Aus diesem Grund bestehen unterschiedlichen <b>Lizenzversionen</b> (2.0, 3.0 bzw. 4.0). Durch die Angabe der Lizenzversion machen Sie deutlich, auf welchen Stand des Lizenztextes Sie sich genau beziehen.
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" text-align="middle" width="10%">
-      <b><font size="10">L</font></b>
-    </td>
-    <td valign="middle" text-align="left" width="90%">
-      Setzen Sie einen <b>LINK</b> zu dem Lizenztext. Sollte eine Verlinkung nicht möglch sein, muss der Link ausgeschrieben werden.
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" text-align="middle" width="10%">
-      <b><font size="10">U</font></b>
-    </td>
-    <td valign="middle" text-align="left" width="90%">
-      Machen Sie eine Angabe zu dem <b>URSPRUNGSORT</b>, d.h. verlinken Sie z.B. die Internetseite, auf der Sie das Material gefunden haben. Ein solcher Hinweis ermöglicht es Nachnutzer*innen z.B. den Kontext des Originalwerks nachzuvollziehen.
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" text-align="middle" width="10%">
-      <b><font size="10">+B</font></b>
-    </td>
-    <td valign="middle" text-align="left" width="90%">
-      Haben Sie eine <b>BEARBEITUNG</b> an dem Material vorgenommen, muss dies ebenfalls kenntlich gemacht werden.
-    </td>
-  </tr>
-</table>
-
-<font size="3">Tabelle TULLU+B von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font>
     </p>
   </div>
   <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Dateiformat prüfen</button>

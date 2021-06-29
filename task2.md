@@ -147,7 +147,7 @@ In folgendem Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materiali
   </div>
   <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Lizenz und Lizenzversion wählen</button>
   <div class="panel">
-   <p>In diesem Schritt müssen Sie auswählen, unter welche Creative Commons-Lizenz Sie Ihr Material stellen möchten. Überlegen Sie hierfür, welche Nutzungsrechte Sie anderen Personen einräumen möchten. Was ist Ihnen wichtig?
+   <p>In diesem Schritt müssen Sie auswählen, unter welche Creative Commons-Lizenz Sie Ihr Material stellen möchten. Überlegen Sie hierfür, welche Nutzungsrechte Sie anderen Personen einräumen möchten. Was ist Ihnen wichtig?<br>
      Denken Sie daran, dass Sie eine Lizenzierung nur dann vornehmen dürfen, wenn Sie Urheber:in des zu lizenzierenden Materials sind. Sollten mehrere Personen Urheber:innen sein oder Rechte an dem Material besitzen, muss gemeinsam über die Lizenzierung entschieden werden. 
 <br>
 

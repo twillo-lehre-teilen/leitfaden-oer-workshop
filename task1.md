@@ -65,8 +65,7 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
   </div>
   <button aria-label="zu Schritt 2" class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
   <div class="panel">
-    <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Beginnen Sie mit der Lizenz.
-      Auf OER sollten Sie einen eindeutigen <b>Lizenzhinweis</b> finden. Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein.
+    <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Sie sollten einen eindeutigen <b>Lizenzhinweis</b> finden.  Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein.
 
 > &#128161; <b>Was ist was?</b>
 > <br><br>
@@ -79,35 +78,64 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
 > <b>Lizenzicon:</b><br>
 > Das Lizenzicon schafft einen Wiedererkennungswert. Auf der Webseite von Creative Commons werden alle gängigen Lizenzicons für Sie bereitgestellt. 
   
-Nutzen Sie OER anderer Urheber*/innen bzw. Rechteinhaber*/innen nach oder teilen Sie sie, müssen Sie einen Lizenzhinweis setzen, der folgende Punkte enthält:
-<ul>
-  <li><b>Lizenz und Lizenzversion</b></li>
-  <li><b>Verweis zum Lizenztext</b> (z. B. Verlinkung oder ausgeschriebener Link)</li>
-  <li><b>Urheber*in(nen)angabe bzw. Rechteinhaber*in(nen)angabe</b> (sofern die Lizenz das Modul <b>BY</b> enthält) </li>
-</ul>
+Binden Sie OER anderer Urheber:innen bzw. Rechteinhaber:innen in eigene Werke ein, müssen Sie dies kenntlich machen.
+<table id="invisible">
+  <tr>
+    <td valign="middle" text-align="middle" width="15%">
+      <b><font size="10">T</font></b>
+    </td>
+    <td valign="middle" text-align="left" width="85%">
+      Geben Sie den TITEL des Werks an, sofern dieser angegeben ist.
+      <br>
+      <i class="fa fa-info-circle" style="color:black"></i> In der Version 4.0 der CC-Lizenzen ist der Titel eine optionale (jedoch empfohlene) Angabe.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="15%">
+      <b><font size="10">U</font></b>
+    </td>
+    <td valign="middle" text-align="left" width="85%">
+      Nennen Sie den/die <b>URHEBER*IN(NEN)</b>/Rechteinhaber*in(nen). Auch Gruppen, Organisationen oder Institutionen können hier genannt werden. Orientieren Sie sich bei der Angabe daran, wie der*die Urheber*in(nen) in dem Material bezeichnet ist/sind.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="10%">
+      <b><font size="10">L</font></b>
+    </td>
+    <td valign="middle" text-align="left" width="90%">
+      Machen Sie eine Angabe zu der <b>LIZENZ</b> und der <b>LIZENZVERSION</b>. Übernehmen Sie diese Angaben genauso, wie an dem Material, das Sie nutzen, angegeben. Hierzu zählt ggf. auch die Angabe, ob es ich um eine an die Gesetzgebung eines Landes angepasste Version der Lizenz handelt.
+      <br>
+      <i class="fa fa-info-circle" style="color:black"></i> CC-Lizenztexte durchlaufen stetig Revisionsprozesse und werden sukzessive aktualisiert. Aus diesem Grund bestehen unterschiedlichen <b>Lizenzversionen</b> (2.0, 3.0 bzw. 4.0). Durch die Angabe der Lizenzversion machen Sie deutlich, auf welchen Stand des Lizenztextes Sie sich genau beziehen.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="10%">
+      <b><font size="10">L</font></b>
+    </td>
+    <td valign="middle" text-align="left" width="90%">
+      Setzen Sie einen <b>LINK</b> zu dem Lizenztext. Sollte eine Verlinkung nicht möglch sein, muss der Link ausgeschrieben werden.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="10%">
+      <b><font size="10">U</font></b>
+    </td>
+    <td valign="middle" text-align="left" width="90%">
+      Machen Sie eine Angabe zu dem <b>URSPRUNGSORT</b>, d.h. verlinken Sie z.B. die Internetseite, auf der Sie das Material gefunden haben. Ein solcher Hinweis ermöglicht es Nachnutzer*innen z.B. den Kontext des Originalwerks nachzuvollziehen.
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" text-align="middle" width="10%">
+      <b><font size="10">+B</font></b>
+    </td>
+    <td valign="middle" text-align="left" width="90%">
+      Haben Sie eine <b>BEARBEITUNG</b> an dem Material vorgenommen, muss dies ebenfalls kenntlich gemacht werden.
+    </td>
+  </tr>
+</table>
 
-Die folgende Abbildung zeigt ein Beispiel für einen CC BY (4.0)-Lizenzhinweis, der die verpflichtenden Angaben enthält.
-
-<figure>
-  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 14: Pflichtangaben in Lizenzhinweisen" title="Abbildung 14: Pflichtangaben in Lizenzhinweisen"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 14: Pflichtangaben in Lizenzhinweisen</figcaption>
-</figure>
-
-Optional ist für einen Lizenzhinweis die Angabe folgender Punkte:
-
-<ul>
-  <li><b>Titel und Art des Werks</b> (nur bei Version 4.0, bei Vorgängerversionen wird der Titel mit angeführt)</li>
-  <li><b>Lizenzicon</b></li>
-  <li><b>Ausnahmeregelungen oder weitere Hinweise</b> (z.B. bzgl. der Nachnutzbarkeit der Materialien)</li>
-</ul>
-
-Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
+<font size="3">Tabelle TULLU+B von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font>
   
-<figure>
-  <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 15: Ausführlicher Lizenzhinweis" title="Abbildung 15: Ausführlicher Lizenzhinweis"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 15: Ausführlicher Lizenzhinweis</figcaption>
-</figure>
-
 > &#128161; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
 >
 > Alle Materialien, die CC-lizenziert sind, dürfen Sie grundsätzlich im Portal einstellen. Materialien mit einer möglichst offenen Lizenz (CC 0, CC BY und CC BY SA) sind besonders willkommen, da diese eine einfache Verwendung, Veränderung und Weiterverbreitung ermöglichen und somit der grundsätzlichen Idee von OER entsprechen.

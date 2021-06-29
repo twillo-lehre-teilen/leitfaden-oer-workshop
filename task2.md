@@ -158,30 +158,36 @@ In folgendem Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materiali
 
 Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis gut sichtbar auf Ihrem Material. Bei einem Skript können Sie ihn z.B. auf der ersten Seite positionieren, bei einen Foliensatz auf der Titel- oder auf der Abschlussfolie. 
 
-Folgende Punkte sind für eine korrekte Lizenzierung Ihres eigenen Materials zu beachten:
+     <b>Folgende Punkte sind für eine korrekte Lizenzierung Ihres eigenen Materials zu beachten:</b>
 <li><b>Lizenz und Lizenzversion:</b> Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel "lizenziert unter CC BY 4.0"</li>
-<li>Urheber:innen: Haben Sie sich für das Lizenzmodl <b>BY</b> entschieden, stellen Sie, sicher, dass die Namen aller Urheber:innen bzw. Rechteinhaber:innen an Ihrem Material angegeben sind. Auch der Name einer Organisation, Institution oder Projektgruppen ist zulässig, sofern diese die Rechte am Werk besitzen.</li>
-<li><b>Titel des Werks: </b>Bei der Lizenzversionen 3.0 und Ihren Vorgängerversionen muss der Titel des Werks erkennbar sein. Ab der Lizenzversion 4.0 ist dies nicht mehr erforderlich</li>.
+     <li><b>Urheber:innenangaben:</b> Haben Sie sich für das Lizenzmodl <b>BY</b> entschieden, stellen Sie, sicher, dass die Namen aller Urheber:innen bzw. Rechteinhaber:innen an Ihrem Material angegeben sind. Auch der Name einer Organisation, Institution oder Projektgruppe ist zulässig, sofern diese die Rechte am Werk besitzt.</li>
+<li><b>Titel des Werks:</b>Bei der Lizenzversionen 3.0 und Ihren Vorgängerversionen muss der Titel des Werks erkennbar sein. Ab der Lizenzversion 4.0 ist dies nicht mehr erforderlich</li>.
 <br>
 <br>
-Um dritten die Nachnutzung Ihres Materials zu erleichtern, können Sie zudem folgende Angaben in den Lizenzhinweis aufnehmen: 
+<b>Um dritten die Nachnutzung Ihres Materials zu erleichtern, können Sie zudem folgende Angaben in den Lizenzhinweis aufnehmen:</b> 
 <li><b>Link zum Lizenztext:</b> Setzen Sie einen Verweis zu der Lizenz. Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) kann der Link auch ausgeschrieben werden.
 <li><b>Lizenzicon:</b> Für den Wiedererkennungswert kann das Lizenzicon mitgeführt werden. Auf der Webseite von Creative Commons können Sie das entsprechende Lizenzicon kopieren und neben dem Lizenzhinweis positionieren.</li>
 <li><b>Ausnahmeregelungen oder weitere Hinweise</b>: Nehmen Sie ggf. Informationen auf, die Dritte bei der Nachnutzung Ihres Materials beachten müssen</li>
 
-<figure>
-  <img src="images/Pflichtangaben_Lizenzhinweis.svg" alt="Abb. 11: Pflichtangaben in Lizenzhinweisen" title="Abbildung 11: Pflichtangaben in Lizenzhinweisen"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 11: Pflichtangaben in Lizenzhinweisen</figcaption>
-</figure>
-
-Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, der neben den verpflichtenden, auch optionale Angaben enthält.
+An folgendem Beispiel für einen ausführlichen Lizenzhinweis können Sie sich bei der Lizenzierung Ihrer eigenen Materialien orientieren.
+      <br><br>
+      <table id="invisible">
+        <tr>
+          <td width="12%">
+            <img src="images/creative-commons_cc-by.svg" alt="Lizenz CC BY" title="Lizenz CC BY">
+          </td>
+          <td valign="middle" text-align="left" width="88%">
+            Dieser digitale Leitfaden "Teilen von Bildungsmaterialien" des OER-Portals twillo ist - sofern nicht anders an einzelnen Inhalten angegeben - lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> 
+          </td>
+        </tr>
+      </table>
 
 <figure>
   <img src="images/Ausführlicher_Lizenzhinweis.svg" alt="Abb. 12: Ausführlicher Lizenzhinweis" title="Abbildung 12: Ausführlicher Lizenzhinweis"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. 12: Ausführlicher Lizenzhinweis</figcaption>
 </figure>
 
-Das Video Lizenzhinweise am eigenem Material zeigt, worauf bei der Lizenzierung geachtet werden muss.
+Das folgende Video "Lizenzhinweise am eigenem Material" zeigt, worauf bei der Lizenzierung geachtet werden muss.
 
 <figure>
 <video style="width:100%;" controls>

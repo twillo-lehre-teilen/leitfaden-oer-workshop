@@ -126,7 +126,25 @@ Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müsse
   </tr>
 </table>
 
-<font size="3">Tabelle TULLU+B von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font></p>
+<font size="3">Tabelle TULLU+B von twillo, basierend auf  <a aria-describedby="Link zur OER Infoseite, Tullu-Regel" href="https://open-educational-resources.de/oer-tullu-regel/">OER leichtgemacht mit der TULLU-Regel</a> von Jöran Muuß-Merholz und Sonja Borski  für <a aria-describedby="Link zur OER Infoseite" href="http://www.open-educational-resources.de/">OERinfo – Informationsstelle OER</a>, lizenziert unter <a aria-describedby="Link zur Creative Commons Seite" href="http://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a>.</font> <br>
+    In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien</b> im eigenem Bildungsmaterial verfahren wird und was Sie beachten müssen, wenn Sie <b>fremde Materialien bearbeiten</b>.
+
+<figure>
+<video style="width:100%;" controls>
+ <source src="videos/Lizenzangaben_bei_eingebundenen_fremden_Materialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben bei eingebundenen fremden Materialien">
+ </video>
+ <figcaption style="text-align:center;font-size:14px;">Video 2: Lizenzangaben bei eingebundenen fremden Materialien von twillo, lizenziert unter CC BY (4.0)</figcaption>
+</figure>
+
+<figure>
+<video style="width:100%;" controls>
+ <source src="videos/Lizenzangaben_bei_bearbeiteten_Materialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben bei bearbeiteten Materialien">
+ </video>
+ <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialienvon twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY (4.0)</a></figcaption>
+</figure>
+
+    
+    </p>
   </div>
   <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Lizenztext und Lizenzversion wählen</button>
   <div class="panel">
@@ -146,7 +164,7 @@ Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis g
 <li><b>Verweis zum Lizenztext:</b>
     <br>
     Bitte bieten Sie einen Verweis zum Text der gewährten Lizenz an! Wenn kein Link möglich ist (z.B. bei gedruckten Materialien oder in Videos) sollte der Link ausgeschrieben zu sehen sein, also zum Beispiel: <a aria-label="Link zu Creative Commons Namensnennung 4.0" href="https://creativecommons.org/licenses/by/4.0/legalcode">https://creativecommons.org/licenses/by/4.0/legalcode</a></li>
-<li>Haben Sie sich für die Attribution <b>BY</b> entschieden, dann geben Sie im Lizenzhinweis auch die Namen aller Urheber*innen bzw. Rechteinhaber*innen an. Auch der Name einer Organisation/Institution ist zulässig (z.B: twillo, CC BY 4.0), sofern diese die Rechte am Werk besitzt.</li>
+<li>Haben Sie sich für die Attribution <b>BY</b> entschieden, dann geben Sie im Lizenzhinweis auch die Namen aller Urheber:innen bzw. Rechteinhaber:innen an. Auch der Name einer Organisation/Institution ist zulässig (z.B: twillo, CC BY 4.0), sofern diese die Rechte am Werk besitzt.</li>
 
 Die folgende Abbildung zeigt ein Beispiel für einen Lizenzhinweis, der die verpflichtenden Angaben enthält.
 
@@ -177,22 +195,6 @@ Das Video Lizenzhinweise am eigenem Material zeigt, worauf bei der Lizenzierung 
  <source src="videos/Lizenzangaben an eigenen Bildungsmaterialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben an eigenen Bildungsmaterialien">
  </video>
  <figcaption style="text-align:center;font-size:14px;">Video 1: Lizenzhinweise am eigenem Material</figcaption>
-</figure>
-
-In diesen Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materialien</b> im eigenem Bildungsmaterial verfahren wird und was Sie beachten müssen, wenn Sie <b>fremde Materialien bearbeiten</b>.
-
-<figure>
-<video style="width:100%;" controls>
- <source src="videos/Lizenzangaben_bei_eingebundenen_fremden_Materialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben bei eingebundenen fremden Materialien">
- </video>
- <figcaption style="text-align:center;font-size:14px;">Video 2: Lizenzangaben bei eingebundenen fremden Materialien von twillo, lizenziert unter CC BY (4.0)</figcaption>
-</figure>
-
-<figure>
-<video style="width:100%;" controls>
- <source src="videos/Lizenzangaben_bei_bearbeiteten_Materialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben bei bearbeiteten Materialien">
- </video>
- <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialienvon twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY (4.0)</a></figcaption>
 </figure>
 
 &#9888;&#65039; <b>Nicht immer ist eine freie Lizenzwahl möglich:</b> \

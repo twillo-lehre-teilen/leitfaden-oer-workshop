@@ -10,7 +10,7 @@
   
   * [Merkmale von OER](merkmale.md)
   
-  * [Urheberrechte und Lizenzen](urheberrechte_und_lizenzen.md)
+  * [Urheberrecht und offene Lizenzen](urheberrechte_und_lizenzen.md)
 
 * [2. Umsetzungsleitfäden:](task_overview.md)
 

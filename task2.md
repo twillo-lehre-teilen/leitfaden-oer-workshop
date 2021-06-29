@@ -77,7 +77,7 @@ Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müsse
       <b><font size="10">T</font></b>
     </td>
     <td valign="middle" text-align="left" width="85%">
-      Geben Sie den TITEL des Werks an, sofern dieser angegeben ist.
+      Geben Sie den <b>TITEL</b> des Werks an, sofern dieser angegeben ist.
       <br>
       <i class="fa fa-info-circle" style="color:black"></i> In der Version 4.0 der CC-Lizenzen ist der Titel eine optionale (jedoch empfohlene) Angabe.
     </td>
@@ -135,18 +135,15 @@ In folgendem Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materiali
 <video style="width:100%;" controls>
  <source src="videos/Lizenzangaben_bei_eingebundenen_fremden_Materialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben bei eingebundenen fremden Materialien">
  </video>
- <figcaption style="text-align:center;font-size:14px;">Video 2: Lizenzangaben bei eingebundenen fremden Materialien von twillo, lizenziert unter CC BY (4.0)</figcaption>
+ <figcaption style="text-align:center;font-size:14px;">Video 2: Lizenzangaben bei eingebundenen fremden Materialien von twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a></figcaption>
 </figure>
 
 <figure>
 <video style="width:100%;" controls>
  <source src="videos/Lizenzangaben_bei_bearbeiteten_Materialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben bei bearbeiteten Materialien">
  </video>
- <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialienvon twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY (4.0)</a></figcaption>
-</figure>
-
-    
-   
+ <figcaption style="text-align:center;font-size:14px;">Video 3: Lizenzangaben bei bearbeiteten Materialien von twillo, lizenziert unter <a href="https://creativecommons.org/licenses/by/4.0/">CC BY (4.0)</a></figcaption>
+</figure>  
   </div>
   <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Lizenztext und Lizenzversion wählen</button>
   <div class="panel">

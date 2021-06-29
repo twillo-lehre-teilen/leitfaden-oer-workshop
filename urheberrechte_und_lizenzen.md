@@ -13,13 +13,13 @@ Die Schrankenbestimmung für Wissenschaft und Lehre in § 60a UrhG sieht Erleich
 
 Damit ist der Kreis der begünstigten Personen zwar relativ weit. Eine Nutzung durch Dritte ist aber erst möglich, wenn das konkret in Rede stehende Werk bereits für den Unterricht an der Bildungseinrichtung verwendet worden ist. Ferner können nur Personen mit einem institutionellen Bezug zu einer Bildungseinrichtung von der Schranke des § 60a UrhG Gebrauch machen.
 
-Solche Einschränkungen sehen <b>offene Lizenzen</b> hingegen nicht vor. Sie ermöglichen die rechtskonforme, aber unkomplizierte Einräumung von Nutzungsrechten <b>innerhalb des geltenden Urheberrechts</b>, insbesondere für die Weiterlizenzierung von Inhalten, und zwar auch im Hochschulkontext (vgl. u. a. <a aria-label="Quellenlink Unesco 2019" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf" target="_blank">DUK 2015</a>, <a aria-label="Link zum OER Portal Niedersachsen" href="https://www.oernds.de/oer/legal.html" target="_blank">OER Portal Niedersachsen 2021</a>).
+Solche Einschränkungen sehen <b>offene Lizenzen</b> hingegen nicht vor. Sie ermöglichen die rechtskonforme, aber unkomplizierte Einräumung von Nutzungsrechten <b>innerhalb des geltenden Urheberrechts</b>, insbesondere für die Weiterlizenzierung von Inhalten, und zwar auch im Hochschulkontext (vgl. u. a. <a aria-label="Quellenlink Unesco 2019" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf" target="_blank">DUK 2015</a>, <a aria-label="Link zu twillo" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">twillo 2021</a>).
 
 ### Die Mehrwerte offener Lizenzen
 
 Offene Lizenzen wurden entwickelt, um die Rechte von Urheber\*innen zu schützen und gleichzeitig Dritten die (Weiter-)Verwendung und zum Teil sogar Anpassung und Änderung ihrer Inhalte und Materialien zu ermöglichen. Die Wahl einer bestimmten offenen Lizenz (und damit verbunden bestimmte Möglichkeiten der Nachnutzung ihrer Inhalte) liegt hierbei bei den Urheber\*innen selbst. Auf diese Weise werden die Einschränkungen des Urheberrechts überwunden; Urheber\*innen bleiben aber gleichzeitig als solche anerkannt. Dies ist im Bereich von Wissenschaft und Forschung von besonderer Relevanz.
 
-OER sind offen lizenziert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf dem Portal twillo wird für eine offene Lizenzierung das standardisierte <B>Creative Commons-Lizenzsystem</B> empfohlen (vgl. u. a. <a aria-label="Quellenlink Unesco 2019" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf" target="_blank">DUK 2015</a>, <a aria-label="Link zum OER Portal Niedersachsen" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">twillo 2021</a>)
+OER sind offen lizenziert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf dem Portal twillo wird für eine offene Lizenzierung das standardisierte <B>Creative Commons-Lizenzsystem</B> empfohlen (vgl. u. a. <a aria-label="Quellenlink Unesco 2019" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf" target="_blank">DUK 2015</a>, <a aria-label="Link zu twillo" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">twillo 2021</a>)
 
 ### Die Bedingungen von Creative Commons-Lizenzen
 
@@ -100,7 +100,7 @@ for (var i = 0; i < acc.length; i++) {
 
 ### Weiterführende Informationen
 
-Alle o.g. Informationen können Sie im Bereich Rechtliches auf twillo nachlesen.
+Alle o.g. Informationen können Sie im Bereich <a aria-label="Link zu twillo" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">Rechtliches</a> auf twillo nachlesen.
 
 Die wichtigsten Aspekte zum Thema Urheberrecht und offene Lizenzierung von Materialien finden Sie in dem u.s. Video "Urheberrecht für Nicht-Jurist:innen" (Hirsch 2020).
 

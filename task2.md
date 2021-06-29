@@ -148,6 +148,7 @@ In folgendem Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materiali
   <button aria-label="zu Schritt 3" class="accordion">Schritt 3: Lizenz und Lizenzversion wählen</button>
   <div class="panel">
    <p>In diesem Schritt müssen Sie auswählen, unter welche Creative Commons-Lizenz Sie Ihr Material stellen möchten. Überlegen Sie hierfür, welche Nutzungsrechte Sie anderen Personen einräumen möchten. Was ist Ihnen wichtig?
+     Denken Sie daran, dass Sie eine Lizenzierung nur dann vornehmen dürfen, wenn Sie Urheber:in des zu lizenzierenden Materials sind. Sollten mehrere Personen Urheber:innen sein oder Rechte an dem Material besitzen, muss gemeinsam über die Lizenzierung entschieden werden. 
 <br>
 
 > &#x1F4A1; <b>Je offener die Lizenz, desto einfacher ist die Nachnutzung</b>
@@ -156,7 +157,7 @@ In folgendem Erklärvideos sehen Sie, wie mit <b>eingebundenen fremden Materiali
 > 
 > Materialien, deren CC-Lizenz die Module ND und/oder NC enthalten, sind weniger offen und können in der Nachnutzung Probleme hervorrufen. So kann es z.B. schwierig sein, Material ohne die Erlaubnis zur Anpassung in das individuelle Lehr-Lernsetting zu integrieren. Auch die klare Trennung eines nichtkommerziellen von einem kommerziellen Verwendungskontext kann problematisch sein.
 
-Beim Teilen von offenen Bildungsmaterialien platzieren Sie einen Lizenzhinweis gut sichtbar auf Ihrem Material. Bei einem Skript können Sie ihn z.B. auf der ersten Seite positionieren, bei einen Foliensatz auf der Titel- oder auf der Abschlussfolie. 
+Um Material zu lizenzieren, ist es ausreichend, einen Lizenzhinweis gut sichtbar an Ihrem Material anzubringen. Bei einem Skript können Sie ihn z.B. auf der ersten Seite positionieren, bei einen Foliensatz auf der Titel- oder auf der Abschlussfolie. 
 
 <b>Folgende Punkte sind für eine korrekte Lizenzierung Ihres eigenen Materials zu beachten:</b><br>
 <li><b>Lizenz und Lizenzversion:</b> Geben Sie die Lizenz und die Version an. Dabei reichen die gängigen Kürzel wie zum Beispiel "lizenziert unter CC BY 4.0"</li>

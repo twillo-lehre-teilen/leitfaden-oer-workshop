@@ -74,7 +74,7 @@ Materialien, die für den Bildungskontext erstellt werden, sind für spezifische
 
 ### Didaktische Strukturierung
 
-Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die didaktische Ausrichtung des Bildungsmaterials zu erhalten. Dies erfolgt auf twillo mit der Einordnung des Bildungsmaterials in einen von fünf Inhaltstypen. So erhalten Lehrende einen ersten Überblick darüber, ob es sich um ein kleinteiliges oder ein aufgabenorientiertes Lehrmaterial, um eine Lektion oder einen Kurs bzw. um ein Werkzeug handelt. 
+Zur Orientierung ist es hilfreich, Angaben über den didaktischen Umfang und die didaktische Ausrichtung des Bildungsmaterials zu erhalten. Dies erfolgt auf twillo mit der Einordnung des Bildungsmaterials in einen von fünf Inhaltstypen. So erhalten Lehrende einen ersten Überblick darüber, ob es sich um ein kleinteiliges oder ein aufgabenorientiertes Lehrmaterial, um eine Lektion oder einen Kurs handelt. 
 
 <!-- Script fürs Accordion -->
 <script>
@@ -119,11 +119,7 @@ for (var i = 0; i < acc.length; i++) {
    <div class="panel">
       <p>Ein Kurs besteht aus mehreren Lektionen bzw. kleinteiligen Lehrmaterialien und aufgabenorientierten Materialien. Der Aufbau und die Inhalte des Kurses sind auf ein übergeordneten Lehr- oder Lernziel hin ausgerichtet.<br><br>Beispiele:<br>LMS Kurse, im html-Format abgebildete Kurse, Lehrplanung</p>
    </div>
-   <button class="accordion">Werkzeug</button>
-   <div class="panel">
-      <p>Werkzeuge stehen für jede Form und Größe von Anwedungssoftware, die für die Erstellung der offenen Bildungsmaterialien und für ihren Einsatz in Lehr-Lern-Kontexten besonders geeignet sind.<br><br>Werkzeuge, die eine kostenpflichtige Registrierung verlangen, sind ausgeschlossen.<br><br>Beispiele:<br> befüllbarer Vokabeltrainer, Mindmap Anwendugen, digitale Leinwände etc.</p>
-   </div>
-</div>
+  
 
 ### Didaktische Kontextualisierung
 

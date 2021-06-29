@@ -2,7 +2,7 @@
 
 Die Erstellung aktivierender Materialien für digitale Lehr-Lernsettings stellt einen hohen Aufwand dar. OER können hier als Unterstützung dienen, da sie flexibel an spezifische Lehr-und Lernkontexte sowie individuelle Bedarfe von Lerngruppen angepasst werden können. Der Aufbau einer Lehr- oder Lerneinheit auf bereits vorhandenen, erprobten Strukturen bedeutet eine deutliche Zeitersparnis bei deren Konzeption.
 
-Durch das Erstellen und Teilen von OER können Lehrende ihre Lehrexpertise öffentlich sichtbar machen, was sich positiv auf ihre Reputation in der wissenschaftlichen Community auswirken kann. Auf diese Weise leisten OER einen Beitrag zum Abbau der bestehenden *Reputationsasymmetrie* zwischen Forschungs- und Lehrtätigkeiten.
+Durch das Erstellen und Teilen von OER können Lehrende ihre Lehrexpertise öffentlich sichtbar machen, was sich positiv auf ihre Reputation in der wissenschaftlichen Community auswirken kann. Auf diese Weise leisten OER einen Beitrag zum Abbau der bestehenden Reputationsasymmetrie zwischen Forschungs- und Lehrtätigkeiten.
 
 Durch die Möglichkeit einer (kollaborativen) Weiterentwicklung von OER wird die Vernetzung von Lehrenden gefördert. Ein langfristiger Austausch über OER bestimmter Disziplinen und Fachbereiche begünstigt die Entwicklung von Netzwerkstrukturen zwischen Lehrenden und Lernenden unterschiedlicher Institutionen. Die stete, gemeinschaftliche Begutachtung, Korrektur und Anpassung von Bildungsmaterialien hält sie stets aktuell und sichert ihre Qualität.
 

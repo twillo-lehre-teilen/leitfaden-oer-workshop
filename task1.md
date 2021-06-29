@@ -48,7 +48,7 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
   </ul>
   Selbstverständlich können Sie für Ihre Recherche auch die üblichen Suchmaschinen oder Plattformen (z.B. Google und YouTube) nutzen. Um den Prozess zu vereinfachen, richten Sie Ihre Suche gezielt auf eine gewünschte Lizenz aus.
 
-  <b>Google:</b> Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter "Einstellungen", die "erweiterte Suche" aus (s. Abb. 11). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 12).
+  <b>Google:</b> Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter <b>Einstellungen</b>, die <b>erweiterte Suche</b> aus (s. Abb. 11). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 12).
   <figure>
     <img src="images/Google_Suche_1.svg" alt="Abb. 11: Screenshot einer Googlesuche" title="Abbildung 11: Screenshot Google-Suche"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 11: Screenshot Google-Suche</figcaption>
@@ -57,7 +57,7 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
     <img src="images/Google_Suche_2.svg" alt="Abb. 12: Screenshot einer Googlesuche mit Filter" title="Abb. 12.: Screenshot Google-Suchfilter"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 12.: Screenshot Google-Suchfilter</figcaption>
   </figure>
-  <b>Youtube</b>: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option "Filter" und schränken Sie die Ergebnisse im Bereich "Eigenschaften" durch die Wahl der Option "Creative Commons" ein (s. Abb. 13).
+  <b>Youtube</b>: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option <b>Filter</b> und schränken Sie die Ergebnisse im Bereich <b>Eigenschaften</b> durch die Wahl der Option <b>Creative Commons</b> ein (s. Abb. 13).
   <figure>
     <img src="images/YouTube.svg" alt="Abb. 13: Screenshot Youtube-Suchfilter" title="Abbildung 13: Screenshot YouTube-Suchfilter"/>
     <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot YouTube-Suchfilter</figcaption>
@@ -66,7 +66,7 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
   <button aria-label="zu Schritt 2" class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
   <div class="panel">
     <p>Haben Sie Material gefunden, das Sie gern auf twillo bereitstellen möchten, prüfen Sie, ob dieses den Merkmalen von OER entspricht. Beginnen Sie mit der Lizenz.
-    Auf OER sollten Sie einen eindeutigen Lizenzhinweis finden. Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein.
+      Auf OER sollten Sie einen eindeutigen <b>Lizenzhinweis</b> finden. Dieser sollte direkt am Material platziert oder als begleitende Information gespeichert sein.
 
 > &#128161; <b>Was ist was?</b>
 > <br><br>
@@ -129,7 +129,7 @@ Folgende Abbildung zeigt ein Beispiel für einen ausführlichen Lizenzhinweis, d
   <div class="panel">
    <p>Um das Material auf twillo einzustellen, melden Sie sich im Portal an.
      
-Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.twillo.de/oer/" target="_blank">twillo.de</a> auf und gehen Sie über den Punkt *Zum Portal* im Kopfmenü auf den Bereich *Einloggen*. Alternativ klicken Sie <a aria-label="Link zu Twillo" href="https://www.twillo.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
+Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.twillo.de/oer/" target="_blank">twillo.de</a> auf und gehen Sie über den Punkt <b>Zum Portal</b> im Kopfmenü auf den Bereich <b>Einloggen</b>. Alternativ klicken Sie <a aria-label="Link zu Twillo" href="https://www.twillo.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
 
    Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich (s. Abb. 16). Wählen Sie unter Einloggen hierfür die Option <b>Zur Hochschulauswahl</b>. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt (s. Abb.16).
    

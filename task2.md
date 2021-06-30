@@ -105,7 +105,7 @@ Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müsse
       <b><font size="10">L</font></b>
     </td>
     <td valign="middle" text-align="left" width="90%">
-      Setzen Sie einen <b>LINK</b> zu dem Lizenztext. Sollte eine Verlinkung nicht möglch sein, muss der Link ausgeschrieben werden.
+      Setzen Sie einen <b>LINK</b> zu dem Lizenztext ("legalcode"). Sollte eine Verlinkung nicht möglch sein, muss der Link ausgeschrieben werden.
     </td>
   </tr>
   <tr>

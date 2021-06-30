@@ -90,13 +90,14 @@ for (var i = 0; i < acc.length; i++) {
    </div>
 </div>
 
-<l>Die Liste  "CC-Lizenzen" von twillo ist lizenziert unter CC BY (4.0). Sie basiert auf "<a aria-label="Link zur Quelle (OER Portal Niedersachsen)" href="https://www.oernds.de/oer/legal.html" target="_blank">Creative Commons (CC) Lizenzen</a>" von twillo, <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a>.</l>
+<figcaption style="text-align:center;font-size:14px;">Liste <i>CC-Lizenzen</i> von twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY (4.0)</a>, basierend auf <a aria-label="Link zur Tabelle zu Creative Commons auf twillo" href="https://www.twillo.de/oer/web/rechtliches/"> <i>Creative Commons (CC) Lizenzen</i></a> von twillo unter <a aria-label="Link: mehr zur BY 4.0 Lizenz" https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
+</figure>
 
 &#9888;&#65039; <b>Wichtig:</b> Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA, weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (vgl. <a aria-label="Link zu twillo" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">twillo 2021</a>).
 
 <figure>
   <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. Offenheitsgrade von OER_CCLizenzen" title="Abbildung "Offenheitsgrade von OER" von twillo, lizenziert unter CC BY SA (4.0)">
-    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Offenheitsgrade von OER</i> von twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY (4.0)</a>, basierend auf der Grafik <a aria-label="Link zur Grafik zum Creative Commons Lizenzspektrum" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"> <i>Creative commons license spectrum</a> von von Shaddim unter <a aria-label="Link: mehr zur BY 4.0 Lizenz" https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
+    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Offenheitsgrade von OER</i> von twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY (4.0)</a>, basierend auf der Grafik <a aria-label="Link zur Grafik zum Creative Commons Lizenzspektrum" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"> <i>Creative commons license spectrum</i></a> von Shaddim unter <a aria-label="Link: mehr zur BY 4.0 Lizenz" https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
 </figure>
 
 ### Weiterführende Informationen

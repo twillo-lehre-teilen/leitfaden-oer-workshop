@@ -2,8 +2,9 @@
 
 ### Starre Regularien des Urheberrechts
 
-Das Urheberrecht ist ein sog. Ausschließlichkeitsrecht; ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber\*innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig. Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht (§ 51 UrhG), Wissenschaft und Lehre (§ 60a UrhG).
-Die Schrankenbestimmung für Wissenschaft und Lehre in § 60a UrhG sieht Erleichterungen für Nutzungen eines Lernmaterials in der Hochschule bis zu einem bestimmten Umfang vor (15 % bei Druckwerken; 5 Min bei Videos und Musik). Nach dem Gesetzestext darf die Nutzung erfolgen:
+Das Urheberrecht ist ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber*innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
+
+Die Schrankenbestimmung für Unterricht und Lehre in § 60a UrhG sieht Erleichterungen für Nutzungen eines Lernmaterials in der Hochschule bis zu einem bestimmten Umfang vor (15 % bei Druckwerken; 5 Min bei Videos und Musik). Nach dem Gesetzestext darf die Nutzung erfolgen: 
 
 <ol>
     <li>für Lehrende und Teilnehmer*innen der jeweiligen Veranstaltung,</li>
@@ -13,7 +14,7 @@ Die Schrankenbestimmung für Wissenschaft und Lehre in § 60a UrhG sieht Erleich
 
 Damit ist der Kreis der begünstigten Personen zwar relativ weit. Eine Nutzung durch Dritte ist aber erst möglich, wenn das konkret in Rede stehende Werk bereits für den Unterricht an der Bildungseinrichtung verwendet worden ist. Ferner können nur Personen mit einem institutionellen Bezug zu einer Bildungseinrichtung von der Schranke des § 60a UrhG Gebrauch machen.
 
-Solche Einschränkungen sehen <b>offene Lizenzen</b> hingegen nicht vor. Sie ermöglichen die rechtskonforme, aber unkomplizierte Einräumung von Nutzungsrechten <b>innerhalb des geltenden Urheberrechts</b>, insbesondere für die Weiterlizenzierung von Inhalten, und zwar auch im Hochschulkontext (vgl. u. a. <a aria-label="Quellenlink Unesco 2019" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf" target="_blank">DUK 2015</a>, <a aria-label="Link zu twillo" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">twillo 2021</a>).
+Solche Einschränkungen sehen <b>offene Lizenzen</b> nicht vor. Sie ermöglichen die rechtskonforme, aber unkomplizierte Einräumung von Nutzungsrechten innerhalb des geltenden Urheberrechts, insbesondere für die Weiterlizenzierung von Inhalten, und zwar auch im Hochschulkontext  (vgl. u. a. <a aria-label="Quellenlink Unesco 2019" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf" target="_blank">DUK 2015</a>, <a aria-label="Link zu twillo" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">twillo 2021</a>).
 
 ### Die Mehrwerte offener Lizenzen
 
@@ -94,8 +95,8 @@ for (var i = 0; i < acc.length; i++) {
 &#9888;&#65039; <b>Wichtig:</b> Da OER nur dann umfänglich in der Hochschullehre etabliert werden können, wenn sie ohne weitreichende Restriktionen, kostenfrei verwendet, verändert und weiterverbreitet werden können, ist die Wahl einer besonders offenen CC-Lizenz bei ihrer Erstellung sinvoll. Dem pädagogischen – nicht dem rechtlichen – Sinn & Zweck von offenen Bildungsmaterialien entsprechen somit die Lizenzen CC 0, CC BY, CC BY SA, weil sie die Bearbeitung und Nutzung zu jeglichen Zwecken ermöglichen (vgl. <a aria-label="Link zu twillo" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">twillo 2021</a>).
 
 <figure>
-  <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. 10: Offenheitsgrade von OER_CCLizenzen" title="Abbildung 10: "Offenheitsgrade von OER" von twillo, lizenziert unter CC BY SA (4.0)">
-  <figcaption style="text-align:center;font-size:14px;">Abb. 10: Offenheitsgrade von OER von twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">CC BY SA (4.0)</a>, basierend auf der Grafik <a aria-label="Link zur Grafik zum Creative Commons Lizenzspektrum" href="https://open-educational-resources.de/wp-content/uploads/Creative-Commons-Lizenzspektrum-DE.png">Creative Commons Lizenzspektrum DE</a> von JoeranDE/Jöran Muuß-Merholz auf Basis der Arbeit von Shaddim unter <a aria-label="Link: mehr zur BY SA 4.0 Lizenz" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY SA (4.0)</a> via <a href="https://commons.wikimedia.org/wiki/File:Creative_Commons_Lizenzspektrum_DE.svg"> Wikimedia Commons</a></figcaption>
+  <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. Offenheitsgrade von OER_CCLizenzen" title="Abbildung "Offenheitsgrade von OER" von twillo, lizenziert unter CC BY SA (4.0)">
+    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Offenheitsgrade von OER</i> von twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY (4.0)</a>, basierend auf der Grafik <a aria-label="Link zur Grafik zum Creative Commons Lizenzspektrum" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"> <i>Creative commons license spectrum</a> von von Shaddim unter <a aria-label="Link: mehr zur BY 4.0 Lizenz" https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
 </figure>
 
 ### Weiterführende Informationen

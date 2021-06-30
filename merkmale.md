@@ -113,8 +113,7 @@ for (var i = 0; i < acc.length; i++) {
      <table id="invisible">
         <tr>
           <td width="12%">
-            <img src="images/Kleinteilige_Lehrmaterialien.svg" alt="kleinteiliges Lehrmaterial" title="Kleinteiliges Lehrmaterial">
-             <figcaption style="text-align:center;font-size:14px;">Abb. <i>Kleinteiliges Material</i></figcaption>
+            <img src="images/Kleinteilige_Lehrmaterialien.svg" alt="kleinteiliges Lehrmaterial" title="Kleinteiliges Lehrmaterial">         
           </td>         
           <td valign="middle" text-align="left" width="88%">
             Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte
@@ -128,8 +127,7 @@ for (var i = 0; i < acc.length; i++) {
      <table id="invisible">
         <tr>
           <td width="12%">
-            <img src="images/Aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Lehrmaterial" title="aufgabenorientiertes Lehrmaterial">
-             <figcaption style="text-align:center;font-size:14px;">Abb. <i>Aufgabenorientiertes Material</i></figcaption>
+            <img src="images/Aufgabenorientiertes_Material.svg" alt="aufgabenorientiertes Lehrmaterial" title="aufgabenorientiertes Lehrmaterial">     
           </td>
           <td valign="middle" text-align="left" width="88%">
           Aufgabenorientierte Materialien sind Aufgaben, Übungen oder Arbeitsaufträge für Studierende und können sich auf Lehrmaterialien beziehen oder auf solche aufbauen. Sie zielen auf spezifisch definierte Lernhandlungen, etwa das Vertiefen von Wissen, Lösen eines Problems, Festigen von Wissen, Generieren von Wissen bzw. Reflexion von Lernprozessen.<br><br>Beispiele:<br>interaktives Video, Arbeitsblatt, Webquest, Lernquiz, Test, Probeklausur, Portfolioaufgaben          
@@ -143,8 +141,7 @@ for (var i = 0; i < acc.length; i++) {
      <table id="invisible">
         <tr>
           <td width="12%">
-            <img src="images/Lektion.svg" alt="Lektionen" title="Lektionen">
-            <figcaption style="text-align:center;font-size:14px;">Abb. <i>Lektion</i></figcaption>
+            <img src="images/Lektion.svg" alt="Lektionen" title="Lektionen">            
           </td>
           <td valign="middle" text-align="left" width="88%">
           Eine Lektion umfasst in der Regel mehrere kleinteilige Lehrmaterialien und aufgabenorientierte Materialien. Sie enthält Lernziele und ist in sich abgeschlossen, modular aufgebaut und die einzelnen Elemente sind sequenziell miteinander verbunden. Die Struktur einer Lektion wird durch mehrere Materialtypen abgebildet und enthält auch mindestens ein interaktives Element.<br><br>Beispiele:<br>Lehrplanung, Lernnuggets, Lehr-Lerneinheiten aus LMS oder anderen Software-Anwendungen     
@@ -158,8 +155,7 @@ for (var i = 0; i < acc.length; i++) {
       <table id="invisible">
         <tr>
           <td width="12%">
-            <img src="images/Kurs.svg" alt="Kurs" title="Kurs">
-            <figcaption style="text-align:center;font-size:14px;">Abb. <i>Kurs</i></figcaption>
+            <img src="images/Kurs.svg" alt="Kurs" title="Kurs">            
           </td>
           <td valign="middle" text-align="left" width="88%">
           Ein Kurs besteht aus mehreren Lektionen bzw. kleinteiligen Lehrmaterialien und aufgabenorientierten Materialien. Der Aufbau und die Inhalte des Kurses sind auf ein übergeordneten Lehr- oder Lernziel hin ausgerichtet.<br><br>Beispiele:<br>LMS Kurse, im html-Format abgebildete Kurse, Lehrplanung    

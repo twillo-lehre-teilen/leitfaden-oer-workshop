@@ -48,19 +48,19 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
   </ul>
   Selbstverständlich können Sie für Ihre Recherche auch die üblichen Suchmaschinen oder Plattformen (z.B. Google und YouTube) nutzen. Um den Prozess zu vereinfachen, richten Sie Ihre Suche gezielt auf eine gewünschte Lizenz aus.
 
-  <b>Google:</b> Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter <b>Einstellungen</b>, die <b>erweiterte Suche</b> aus (s. Abb. 11). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Abb. 12).
+  <b>Google:</b> Geben Sie Ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend unter <b>Einstellungen</b>, die <b>erweiterte Suche</b> aus (s. Screenshot Google-Suche). Es öffnet sich ein neues Fenster. Hier können Sie die Ergebnisse Ihrer Suche im Bereich "Nutzungsrechte" entlang der von Ihnen gewünschten Lizenzierung eingrenzen (s. Screenshot Google-Suchfilter).
   <figure>
-    <img src="images/Google_Suche_1.svg" alt="Abb. 11: Screenshot einer Googlesuche" title="Abbildung 11: Screenshot Google-Suche"/>
-    <figcaption style="text-align:center;font-size:14px;">Abb. 11: Screenshot Google-Suche</figcaption>
+    <img src="images/Google_Suche_1.svg" alt="Abb. Screenshot einer Googlesuche" title="Abbildung: Screenshot Google-Suche"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Google-Suche</i></figcaption>
   </figure>
   <figure>
-    <img src="images/Google_Suche_2.svg" alt="Abb. 12: Screenshot einer Googlesuche mit Filter" title="Abb. 12.: Screenshot Google-Suchfilter"/>
-    <figcaption style="text-align:center;font-size:14px;">Abb. 12.: Screenshot Google-Suchfilter</figcaption>
+    <img src="images/Google_Suche_2.svg" alt="Abb.: Screenshot einer Googlesuche mit Filter" title="Abb. Screenshot Google-Suchfilter"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Google-Suchfilter</i></figcaption>
   </figure>
-  <b>Youtube</b>: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option <b>Filter</b> und schränken Sie die Ergebnisse im Bereich <b>Eigenschaften</b> durch die Wahl der Option <b>Creative Commons</b> ein (s. Abb. 13).
+  <b>Youtube</b>: Geben Sie ihren Suchbegriff ein und starten Sie die Suche. Wählen Sie anschließend die Option <b>Filter</b> und schränken Sie die Ergebnisse im Bereich <b>Eigenschaften</b> durch die Wahl der Option <b>Creative Commons</b> ein (s. Screenshot Youtube-Suchfilter).
   <figure>
-    <img src="images/YouTube.svg" alt="Abb. 13: Screenshot Youtube-Suchfilter" title="Abbildung 13: Screenshot YouTube-Suchfilter"/>
-    <figcaption style="text-align:center;font-size:14px;">Abb. 13: Screenshot YouTube-Suchfilter</figcaption>
+    <img src="images/YouTube.svg" alt="Abb.: Screenshot Youtube-Suchfilter" title="Abbildung: Screenshot YouTube-Suchfilter"/>
+    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot YouTube-Suchfilter</i></figcaption>
   </figure>
   </div>
   <button aria-label="zu Schritt 2" class="accordion">Schritt 2: Urheberrechtliche Aspekte & Lizenzen beachten</button>
@@ -90,11 +90,11 @@ Sie können für Ihre Internetrecherche z.B. Suchmaschinen nutzen, die explizit 
      
 Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.twillo.de/oer/" target="_blank">twillo.de</a> auf und gehen Sie über den Punkt <b>Zum Portal</b> im Kopfmenü auf den Bereich <b>Einloggen</b>. Alternativ klicken Sie <a aria-label="Link zu Twillo" href="https://www.twillo.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
 
-   Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich (s. Abb. 16). Wählen Sie unter Einloggen hierfür die Option <b>Zur Hochschulauswahl</b>. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt (s. Abb.16).
+   Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich (s. twillo-Anmeldung über DFN<). Wählen Sie unter Einloggen hierfür die Option <b>Zur Hochschulauswahl</b>. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein. Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
    
 <figure>
-  <img src="images/twillo-Login-per-DFN.svg" alt="Abb. 16: Anmeldung DFN" title="Abbildung 16: Anmeldung DFN"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 16: twillo-Anmeldung über DFN</figcaption>
+  <img src="images/twillo-Login-per-DFN.svg" alt="Abb.: Anmeldung DFN" title="Abbildung: Anmeldung DFN"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>twillo-Anmeldung über DFN</i></figcaption>
 </figure>
 
   Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
@@ -124,15 +124,15 @@ Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.twillo.
    <p>Beschreiben Sie das Material möglichst mit den Informationen, die Sie am Material finden.
      
 <figure>
-  <img src="images/Navigation_twillo.svg" alt="Abb. 17: Screenshot Navigation twillo" title="Abbildung 17: Screenshot Navigation twillo "/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot Navigation twillo </figcaption>
+  <img src="images/Navigation_twillo.svg" alt="Abb.: Screenshot Navigation twillo" title="Abbildung: Screenshot Navigation twillo "/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Navigation twillo</i> </figcaption>
 </figure>
 
 Im Abschnitt <l>Lizenz</l> übernehmen Sie genau die Lizenz, die das Material aufweist. Geben Sie bei der Urheberangabe im Reiter <l>Autoren und Beteiligte</l> auch die Autor/*innen als Urheber/*inen an. Sollte es sich um ein gemeinfreies Werk oder CC 0-lizenziertes Werk handeln, können Sie den Namen, sofern bekannt, unter <l>freie Urheberangabe</l> oder <l>Autoren & Beteiligte</l> angeben.
 
 <figure>
-  <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 18: Screenshot Urheberangabe twillo " title="Abbildung 18: Screenshot Urheberangabe twillo "/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot Urheberangabe twillo </figcaption>
+  <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb.: Screenshot Urheberangabe twillo " title="Abbildung: Screenshot Urheberangabe twillo "/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Urheberangabe twillo</i> </figcaption>
 </figure>
 
 ###### Klassifizierungen
@@ -149,8 +149,8 @@ Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> li
 > <b>Aufgabenorientierte Materialien</b><br>
 > zusätzliche Materialien zum Aufgabenelement, etwa Musterlösungen, Best-Practice-Beispiele oder dokumentierte Hilfestellungen, können mit der <b>Serienfunktion</b> ergänzt werden.
 > <figure>
->   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 19: Screenshot Serienfunktion twillo " title="Abb. 19: Screenshot Serienfunktion twillo "/>
->    <figcaption style="text-align:center;font-size:14px;">Abb. 19: Screenshot Serienfunktion twillo</figcaption>
+>   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb.: Screenshot Serienfunktion twillo " title="Abb.: Screenshot Serienfunktion twillo "/>
+>    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Serienfunktion twillo</i></figcaption>
 > </figure>
 
 Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Schlagworte</b> fest, um die Auffindbarkeit Ihres Material in der  zielgerichteten Suche zu erhöhen.
@@ -197,8 +197,8 @@ Sie gehen Sie über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren i
 Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer\*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
 
 <figure>
-  <img src="images/Freigabe_twillo.svg" alt="Abb. 19: Screenshot Freigabe twillo " title="Abbildung 19: Screenshot Freigabe twillo "/>
-   <figcaption style="text-align:center;font-size:14px;">Abb. 19: Screenshot Freigabe twillo</figcaption>
+  <img src="images/Freigabe_twillo.svg" alt="Abb.: Screenshot Freigabe twillo " title="Abbildung: Screenshot Freigabe twillo "/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Freigabe twillo</i></figcaption>
 </figure>
   </p>
   </div>

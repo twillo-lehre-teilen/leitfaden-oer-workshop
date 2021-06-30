@@ -109,7 +109,7 @@ for (var i = 0; i < acc.length; i++) {
 
 <div>
    <button class="accordion">Kleinteiliges Lehrmaterial</button>
-   <div class="panel"><br><br>
+   <div class="panel"><br>
      <table id="invisible">
         <tr>
           <td width="12%">
@@ -121,11 +121,20 @@ for (var i = 0; i < acc.length; i++) {
           </td>
         </tr>
       </table>
-     
    </div>
    <button class="accordion">Aufgabenorientiertes Material</button>
    <div class="panel">
-      <p>Aufgabenorientierte Materialien sind Aufgaben, Übungen oder Arbeitsaufträge für Studierende und können sich auf Lehrmaterialien beziehen oder auf solche aufbauen. Sie zielen auf spezifisch definierte Lernhandlungen, etwa das Vertiefen von Wissen, Lösen eines Problems, Festigen von Wissen, Generieren von Wissen bzw. Reflexion von Lernprozessen.<br><br>Beispiele:<br>interaktives Video, Arbeitsblatt, Webquest, Lernquiz, Test, Probeklausur, Portfolioaufgaben</p>
+     <table id="invisible">
+        <tr>
+          <td width="12%">
+            <img src="images/Aufgabenorientiertes_Lehrmaterialien.svg" alt="aufgabenorientiertes Lehrmaterial" title="aufgabenorientiertes Lehrmaterial">
+          </td>
+          <td valign="middle" text-align="left" width="88%">
+          Aufgabenorientierte Materialien sind Aufgaben, Übungen oder Arbeitsaufträge für Studierende und können sich auf Lehrmaterialien beziehen oder auf solche aufbauen. Sie zielen auf spezifisch definierte Lernhandlungen, etwa das Vertiefen von Wissen, Lösen eines Problems, Festigen von Wissen, Generieren von Wissen bzw. Reflexion von Lernprozessen.<br><br>Beispiele:<br>interaktives Video, Arbeitsblatt, Webquest, Lernquiz, Test, Probeklausur, Portfolioaufgaben          
+          </td>
+        </tr>
+      </table>
+      
    </div>
    <button class="accordion">Lektion</button>
    <div class="panel">

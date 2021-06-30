@@ -137,12 +137,31 @@ for (var i = 0; i < acc.length; i++) {
       
    </div>
    <button class="accordion">Lektion</button>
-   <div class="panel">
-      <p>Eine Lektion umfasst in der Regel mehrere kleinteilige Lehrmaterialien und aufgabenorientierte Materialien. Sie enthält Lernziele und ist in sich abgeschlossen, modular aufgebaut und die einzelnen Elemente sind sequenziell miteinander verbunden. Die Struktur einer Lektion wird durch mehrere Materialtypen abgebildet und enthält auch mindestens ein interaktives Element.<br><br>Beispiele:<br>Lehrplanung, Lernnuggets, Lehr-Lerneinheiten aus LMS oder anderen Software-Anwendungen</p>
+   <div class="panel"><br>
+     <table id="invisible">
+        <tr>
+          <td width="12%">
+            <img src="images/Lektion.svg" alt="Lektionen" title="Lektionen">
+          </td>
+          <td valign="middle" text-align="left" width="88%">
+          Eine Lektion umfasst in der Regel mehrere kleinteilige Lehrmaterialien und aufgabenorientierte Materialien. Sie enthält Lernziele und ist in sich abgeschlossen, modular aufgebaut und die einzelnen Elemente sind sequenziell miteinander verbunden. Die Struktur einer Lektion wird durch mehrere Materialtypen abgebildet und enthält auch mindestens ein interaktives Element.<br><br>Beispiele:<br>Lehrplanung, Lernnuggets, Lehr-Lerneinheiten aus LMS oder anderen Software-Anwendungen     
+          </td>
+        </tr>
+      </table>
+      
    </div>
    <button class="accordion">Kurs</button>
-   <div class="panel">
-      <p>Ein Kurs besteht aus mehreren Lektionen bzw. kleinteiligen Lehrmaterialien und aufgabenorientierten Materialien. Der Aufbau und die Inhalte des Kurses sind auf ein übergeordneten Lehr- oder Lernziel hin ausgerichtet.<br><br>Beispiele:<br>LMS Kurse, im html-Format abgebildete Kurse, Lehrplanung</p>
+   <div class="panel"><br>
+      <table id="invisible">
+        <tr>
+          <td width="12%">
+            <img src="images/Kurs.svg" alt="Kurs" title="Kurs">
+          </td>
+          <td valign="middle" text-align="left" width="88%">
+          Ein Kurs besteht aus mehreren Lektionen bzw. kleinteiligen Lehrmaterialien und aufgabenorientierten Materialien. Der Aufbau und die Inhalte des Kurses sind auf ein übergeordneten Lehr- oder Lernziel hin ausgerichtet.<br><br>Beispiele:<br>LMS Kurse, im html-Format abgebildete Kurse, Lehrplanung    
+          </td>
+        </tr>
+      </table>     
    </div>
   
 

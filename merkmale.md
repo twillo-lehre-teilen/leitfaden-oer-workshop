@@ -113,11 +113,11 @@ for (var i = 0; i < acc.length; i++) {
      <table id="invisible">
         <tr>
           <td width="12%">
-            <img src="images/creative-commons_cc-by.svg" alt="kleinteiliges Lehrmaterial" title="Kleinteiliges Lehrmaterial">
+            <img src="images/Kleinteilige_Lehrmaterialien.svg" alt="kleinteiliges Lehrmaterial" title="Kleinteiliges Lehrmaterial">
           </td>
           <td valign="middle" text-align="left" width="88%">
             Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte
-             <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte</p>
+             
           </td>
         </tr>
       </table>

@@ -24,9 +24,9 @@ Folgende Funktionen des Portals sind hervorzuheben:
  * <b>Suchfunktion:</b> Vereinfachte Auffindbarkeit von Materialien
  * <b>Metadaten:</b> Vorkonfigurierte Felder (inkl. Erklärungen) zur Lizenzierung und Beschreibung von OER
  * <b>Support:</b> Beratung in technischen, rechtlichen und didaktischen Fragen rund um OER und twillo
- * <b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg*innen der gleichen oder einer anderen Institution
+ * <b>Vernetzung:</b> Kollaborationsstrukturen für die Zusammenarbeit mit Kolleg:innen der gleichen oder einer anderen Institution
  
 <center><figure> 
  <img src="images/Logo_twillo_with_claim_dark.svg" alt="Abb. 2: Logo des OER-Portals twillo" title="Abb. 2: Logo des OER-Portals twillo"/>
- <figcaption style="text-align:center;font-size:14px;">Abb. 2: Logo des OER-Portals twillo</figcaption>
+ <figcaption style="text-align:center;font-size:14px;">Abb. <i>Logo des OER-Portals twillo</i></figcaption>
 </figure></center> 

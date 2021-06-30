@@ -207,11 +207,11 @@ Wenn Sie einzelne Inhalte oder Werke entsprechend der lizenzrechtlichen Vorgaben
     
 Rufen Sie den Link <a aria-label="Link zum OER-Portal" href="https://www.twillo.de/oer/" target="_blank">twillo.de</a> auf und gehen Sie über den Punkt <b>Zum Portal</b> im Kopfmenü auf den Bereich <b>Einloggen</b>. Alternativ klicken Sie <a aria-label="Link zu Twillo" href="https://www.twillo.de/edu-sharing/components/login" target="_blank">hier</a>, um direkt auf die Anmeldemaske von twillo zu gelangen.
 
-   Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein (s. Abb. 13). Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
+   Angehörigen von Hochschulen, die <a aria-label="Link zu DFN-AAI" href="https://www.dfn.de/dienstleistungen/dfnaai/" target="_blank">DFN-AAI</a> nutzen, ist ein direkter Einstieg ins OER-Portal ohne manuelle Registrierung möglich. Wählen Sie unter Einloggen hierfür die Option Zur Hochschulauswahl. Wählen Sie in der Liste Ihre Einrichtung/Institution und geben Sie in der Ihnen vertrauten Anmeldungsmaske die Kennung Ihres Hochschulaccounts ein (s. Abb. twillo-Anmeldung über DFN). Sie befinden sich nach Anmeldung in Ihrem Workspace, dort werden Ihre eingestellten Bildungsmaterialien abgelegt.
    
    <figure>
-  <img src="images/twillo-Login-per-DFN.svg" alt="Abb. 13: Anmeldung DFN" title="Abbildung 13: Anmeldung DFN"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 13: twillo-Anmeldung über DFN</figcaption>
+  <img src="images/twillo-Login-per-DFN.svg" alt="Abb.: Anmeldung DFN" title="Abbildung: Anmeldung DFN"/>
+     <figcaption style="text-align:center;font-size:14px;">Abb. <i>twillo-Anmeldung über DFN</i></figcaption>
 </figure>
 
   Das folgende Video veranschaulicht den Prozess der Anmeldung im Portal über DFN:
@@ -235,18 +235,18 @@ Sie haben jederzeit die Möglichkeit, Änderungen in den Beschreibungen vorzuneh
   <div class="panel">
    <p>Beschreiben Sie das Material möglichst mit den Informationen, die Sie am Material finden.
     <figure>
-      <img src="images/Navigation_twillo.svg" alt="Abb. 14: Screenshot Navigation twillo" title="Abbildung 14: Screenshot Navigation twillo "/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 14: Screenshot Navigation twillo </figcaption>
+      <img src="images/Navigation_twillo.svg" alt="Abb.: Screenshot Navigation twillo" title="Abbildung: Screenshot Navigation twillo "/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Navigation twillo</i> </figcaption>
     </figure>
      Im Abschnitt <b>Lizenz</b> geben Sie die Urheber*innen an. Dort sollte, wenn Sie sich für ein Lizenzmodul mit der Attribution <b>BY</b> entschieden haben, der Reiter <b>Autoren & Beteiligte</b> gewählt werden. Den Reiter Freihe Urheberangabe sollten Sie nur dann anwählen, wenn Sie ihr Material unter der Lizenz CC 0 veröffentlichen möchten.
     <figure>
-      <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb. 15: Screenshot Urheberangabe twillo " title="Abbildung 15: Screenshot Urheberangabe twillo "/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 15: Screenshot Urheberangabe twillo </figcaption>
+      <img src="images/Urheberangabe_Autoren und Beteiligte_twillo.svg" alt="Abb.: Screenshot Urheberangabe twillo " title="Abbildung: Screenshot Urheberangabe twillo "/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Urheberangabe twillo</i></figcaption>
     </figure>
 Damit die Lizenz auch maschinell ausgelesen werden kann, muss nun auch hier die Lizenzangabe festgelegt werden. Hierfür öffnen Sie den Bereich Lizenz verwalten und wählen die gewünschte Lizenz mit Lizenzversion.
      <figure>
-      <img src="images/Screenshot_Lizenzangabe_twillo.svg" alt="Abb. 16: Screenshot Lizenzangabe twillo" title="Abbildung 16: Screenshot Lizenzangabe twillo"/>
-      <figcaption style="text-align:center;font-size:14px;">Abb. 16: Screenshot Lizenzangabe twillo</figcaption>
+      <img src="images/Screenshot_Lizenzangabe_twillo.svg" alt="Abb.: Screenshot Lizenzangabe twillo" title="Abbildung: Screenshot Lizenzangabe twillo"/>
+      <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Lizenzangabe twillo</i></figcaption>
     </figure>
 
 ###### Klassifizierungen
@@ -263,8 +263,8 @@ Die Einordnung der Bildungsmaterialien in einen der fünf <b>Inhaltstypen</b> li
 > <b>Aufgabenorientierte Materialien</b><br>
 > zusätzliche Materialien zum Aufgabenelement, etwa Musterlösungen, Best-Practice-Beispiele oder dokumentierte Hilfestellungen, können mit der <b>Serienfunktion</b> ergänzt werden.
 > <figure>
->   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb. 17: Screenshot Serienfunktion twillo " title="Abbildung 17: Screenshot Serienfunktion twillo "/>
->    <figcaption style="text-align:center;font-size:14px;">Abb. 17: Screenshot Serienfunktion twillo</figcaption>
+>   <img src="images/Screenshot_Serienfunktion.svg" alt="Abb.: Screenshot Serienfunktion twillo " title="Abbildung: Screenshot Serienfunktion twillo "/>
+>    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Serienfunktion twillo</i></figcaption>
 > </figure>
 
 Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Schlagworte</b> fest, um die Auffindbarkeit Ihres Material in der  zielgerichteten Suche zu erhöhen.</p>
@@ -312,8 +312,8 @@ Sie gehen über das Kontextmenü zum Punkt <b>Freigeben</b> und aktivieren in de
 Falls Sie unsicher sind, können Sie z.B. alle Teilnehmer*innen aus dem Workshop einladen und das Material nur mit diesem Kreis teilen.
 
 <figure>
-  <img src="images/Freigabe_twillo.svg" alt="Abb. 18: Screenshot Freigabe twillo " title="Abbildung 18: Screenshot Freigabe twillo "/>
-   <figcaption style="text-align:center;font-size:14px;">Abb. 18: Screenshot Freigabe twillo</figcaption>
+  <img src="images/Freigabe_twillo.svg" alt="Abb.: Screenshot Freigabe twillo " title="Abbildung: Screenshot Freigabe twillo "/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Screenshot Freigabe twillo</i></figcaption>
 </figure>
   </p>
   </div>

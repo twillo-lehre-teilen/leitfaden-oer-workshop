@@ -55,7 +55,7 @@ Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format DOCX dem F
 ## 3. OER sind umfassend beschrieben und automatisch auffindbar
 
 <figure>
-  <img src="images/Merkmal_auffindbar machen.svg" alt="Abb. : Automatische Auffindbarkeit" title="Abbildung 8: Automatische Auffindbarkeit"/>
+  <img src="images/Merkmal_auffindbar machen.svg" alt="Abb. : Automatische Auffindbarkeit" title="Abbildung : Automatische Auffindbarkeit"/>
   <figcaption style="text-align:center;font-size:14px;">Abb. <i>Automatische Auffindbarkeit</i></figcaption>
 </figure>
 

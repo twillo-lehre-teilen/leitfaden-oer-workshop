@@ -106,7 +106,7 @@ Alle o.g. Informationen können Sie im Bereich <a aria-label="Link zu twillo" hr
 
 Die wichtigsten Aspekte zum Thema Urheberrecht und offene Lizenzierung von Materialien finden Sie in dem u.s. Video "Urheberrecht für Nicht-Jurist:innen" (Hirsch 2020).
 
-CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-Luther-Universität-Wittenberg (o.J.): <a aria-label="Link zum Handzettel der Martin-Luther-Universität-Wittenberg" href="https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf" target="_blank">https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf</a>.
+CC-Lizenzen auf einen Blick finden Sie z.B. in diesem <a aria-label="Link zum Handzettel der Martin-Luther-Universität-Wittenberg" href="https://blog.llz.uni-halle.de/files/2018/11/Flyer_CC-CheatSheet_web.pdf" target="_blank">Handzettel</a> der Martin-Luther-Universität-Wittenberg (o.J.).
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>

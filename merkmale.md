@@ -1,8 +1,8 @@
 ## Merkmale von OER
 
 <figure>
-  <img src="images/Merkmale_OER.svg" alt="Abb. 3: Merkmale von OER: offene Lizenz, offenes Dateiformat, automatische Auffindbarkeit, didaktische Kontextualisierung. Das macht hochwertige OER-Materialien aus" title="Abbildung 3: Merkmale von OER"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 3: Merkmale von OER</figcaption>
+  <img src="images/Merkmale_OER.svg" alt="Abb. Merkmale von OER: offene Lizenz, offenes Dateiformat, automatische Auffindbarkeit, didaktische Kontextualisierung. Das macht hochwertige OER-Materialien aus" title="Abbildung : Merkmale von OER"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Merkmale von OER</i></figcaption>
 </figure>
 
 Es gibt bei der Erstellung und Veröffentlichung von freien Bildungsmaterialien einige Aspekte zu beachten. Diese Aspekte stehen eng mit den vier grundlegenden Merkmale von OER in Verbindung. Die Beachtung dieser Merkmale können zu hochwertigen Bildungsmaterialien führen und gewährleisten einen OER-Standard.
@@ -11,15 +11,15 @@ Im Folgenden werden diese Merkmale erläutert.
 ## 1. OER sind offen lizenziert
 
 <figure>
-  <img src="images/Merkmal_offene Lizenz.svg" alt="Abb. 4: Offene Lizenz" title="Abbildung 4: Offene Lizenz"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 4: Offene Lizenz</figcaption>
+  <img src="images/Merkmal_offene Lizenz.svg" alt="Abb.: Offene Lizenz" title="Abbildung : Offene Lizenz"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Offene Lizenz</i></figcaption>
 </figure>
 
 OER sind freie Bildungsmaterialien, die mit einer <b>offenen Lizenz</b> versehen sind, die Dritten explizit <b>Nutzungsrechte</b> einräumt. Erst durch diese offene Lizenzierung wird das Material weiterverwendbar. Die offene Lizenzierung stellt folglich das zentrale Merkmal dar, das OER kennzeichnet. Gerade das Lizenzsystem Creative Commons bietet im Bildungskontext viele Vorteile, da die Urheber:innen durch entsprechende Lizenzbausteine differenziert entscheiden können, welche Rechte sie Dritten an ihrem Bildungsmaterial einräumen möchten. 
 
 <figure>
-  <img src="images/Nutzungsbedingungen_design.svg" alt="Abb. 5: CC-Lizenzmodule. Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" title="Abbildung 5: CC-Lizenzmodule"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 5: CC-Lizenzmodule</figcaption>
+  <img src="images/Nutzungsbedingungen_design.svg" alt="Abb. : CC-Lizenzmodule. Das Lizenzsystem Creative Commons: BY (Namensnennung), NC (Nicht kommerziell), ND (keine Bearbeitung), SA (Weitergabe unter gleichen Bedingungen)" title="Abbildung : CC-Lizenzmodule"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>CC-Lizenzmodule</i></figcaption>
 </figure>
 
 Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“ (s. Kapitel <a aria-label="Link zur Seite: Urheberrechte und Lizenzen." href="#/urheberechte_und_lizenzen.md">Urheberrecht und offene Lizenzen</a>). Sie basiert auf rechtsgültigen Verträgen, die allerdings den Vorteil haben, dass sie nicht im Rahmen einer individuellen Transaktion (Vertragsverhandlung, Vertragsschluss), sondern „automatisch“ zustande kommen. Wird gegen die OER-Nutzungsvereinbarung verstoßen, sind die üblichen rechtlichen Möglichkeiten eröffnet, dagegen vorzugehen.
@@ -27,8 +27,8 @@ Die Nutzung von OER erfolgt also nicht im „rechtsfreien Raum“ (s. Kapitel <a
 ## 2. OER liegen in einem möglichst offenen Dateiformat vor 
 
 <figure>
-  <img src="images/Merkmal_offenes Dateiformat.svg" alt="Abb. 6: Offenes Dateiformat. OER liegen in einem möglichst offenen Dateiformat vor" title="Abbildung 6: Offenes Dateiformat"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 6: Offenes Dateiformat</figcaption>
+  <img src="images/Merkmal_offenes Dateiformat.svg" alt="Abb. : Offenes Dateiformat. OER liegen in einem möglichst offenen Dateiformat vor" title="Abbildung : Offenes Dateiformat"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Offenes Dateiformat</i></figcaption>
 </figure>
 
 Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiformaten. Diese ermöglichen (unter Berücksichtigung des Lizenztextes) die Nachnutzung und Bearbeitung der Materialien. Daher ist der Rückgriff auf weitverbreitete Werkzeuge und Open Source Anwendungen bei der Erstellung sowie die Speicherung der Materialien in möglichst offenen Dateiformaten von Vorteil.
@@ -36,8 +36,8 @@ Ein weiteres zentrales Merkmal von OER ist die Verwendung von offenen Dateiforma
 ### Kriterien für offene Dateiformate sind
 
 <figure>
-  <img src="images/oernds_oer_gardening_text.svg" alt="Abb. 7: OER Gardening. Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" title="Abbildung 7: 'OER Gardening' von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 7: OER Gardening von Merle Zander und twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
+  <img src="images/oernds_oer_gardening_text.svg" alt="Abb. : OER Gardening. Kriterien für Dateiformate: offene Standards, editierbar, versionierbar" title="Abbildung : 'OER Gardening' von Merle Zander und twillo, lizenziert unter CC BY (4.0)"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>OER Gardening</i> von Merle Zander und twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY (4.0)</a></figcaption>
 </figure>
 
 <b>Offene Standards</b><br>einfache Weiterverarbeitung durch Open Source Software
@@ -55,8 +55,8 @@ Beispielsweise kann dies bedeuten, dass bei Textdokumenten das Format DOCX dem F
 ## 3. OER sind umfassend beschrieben und automatisch auffindbar
 
 <figure>
-  <img src="images/Merkmal_auffindbar machen.svg" alt="Abb. 8: Automatische Auffindbarkeit" title="Abbildung 8: Automatische Auffindbarkeit"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 8: Automatische Auffindbarkeit</figcaption>
+  <img src="images/Merkmal_auffindbar machen.svg" alt="Abb. : Automatische Auffindbarkeit" title="Abbildung 8: Automatische Auffindbarkeit"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Automatische Auffindbarkeit</i></figcaption>
 </figure>
 
 Freie Bildungsmaterialien sollten möglichst einfach und mit wenig Rechercheaufwand gefunden werden und deshalb möglichst gut beschrieben sein. Hierfür sind prägnante Titel, Beschreibungen und Schlagworte, die Lizenzauszeichnung sowie die Name(n) der Autor:innen relevante Angaben. Diese Informationen werden auch Metadaten genannt und sorgen für die Möglichkeit der standardisierten, maschinellen Suche.
@@ -66,8 +66,8 @@ Twillo unterstützt bei der Angabe der Metadaten und begleitet die Veröffentlic
 ## 4. OER sind didaktisch strukturiert und kontextualisiert
 
 <figure>
-<img src="images/Merkmal_didaktisch kontextualisieren.svg" alt="Abb. 9: Didaktische Kontextualisierung" title="Abbildung 9: Didaktische Kontextualisierung"/>
-  <figcaption style="text-align:center;font-size:14px;">Abb. 9: Didaktische Kontextualisierung</figcaption>
+<img src="images/Merkmal_didaktisch kontextualisieren.svg" alt="Abb. : Didaktische Kontextualisierung" title="Abbildung : Didaktische Kontextualisierung"/>
+  <figcaption style="text-align:center;font-size:14px;">Abb. <i>Didaktische Kontextualisierung</i></figcaption>
 </figure>
 
 Materialien, die für den Bildungskontext erstellt werden, sind für spezifische Zielgruppen und Lehrkontexte konzipiert. Diese Informationen sind häufig nur implizit in den Bildungsmaterialien enthalten, sind aber wichtig für eine erste Einschätzung des Materials von Seiten der Lehrenden, die sie nachnutzen möchten. Das Explizieren von Kontextinformationen für den Lehreinsatz erleichtert die Einschätzung der Passung der Bildungsmaterialien für den jeweiligen Lehrkontext. Damit erhalten Hochschullehrende einen Überblick über den didaktischen Gerhalt der Bildungsmaterialien und können davon ausgehend die Verwendung in den eigenen Lehrkontext planen.

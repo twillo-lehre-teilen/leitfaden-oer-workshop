@@ -109,18 +109,19 @@ for (var i = 0; i < acc.length; i++) {
 
 <div>
    <button class="accordion">Kleinteiliges Lehrmaterial</button>
-   <div class="panel">
+   <div class="panel"><br><br>
      <table id="invisible">
         <tr>
           <td width="12%">
-            <img src="images/creative-commons_cc-by.svg" alt="Lizenz CC BY" title="Lizenz CC BY">
+            <img src="images/creative-commons_cc-by.svg" alt="kleinteiliges Lehrmaterial" title="Kleinteiliges Lehrmaterial">
           </td>
           <td valign="middle" text-align="left" width="88%">
-            Dieser digitale Leitfaden "Teilen von Bildungsmaterialien" des OER-Portals twillo ist - sofern nicht anders an einzelnen Inhalten angegeben - lizenziert unter <a aria-describedby="Link zur Lizenz" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> 
+            Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte
+             <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte</p>
           </td>
         </tr>
       </table>
-      <p>Kleinteilige Lehrmaterialien weisen einen hohen Informationsgehalt auf und dienen der Veranschaulichung und Vermittlung von Wissen.<br><br>Beispiele:<br> Schaubilder, Tabellen, Foliensätze, Lehrtexte, Erklärvideos, Skripte</p>
+     
    </div>
    <button class="accordion">Aufgabenorientiertes Material</button>
    <div class="panel">

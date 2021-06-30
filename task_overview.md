@@ -1,6 +1,6 @@
 # 2. Umsetzungsleitfäden
   
-Nachdem Sie die wesentlichen Informationen und Hinweise des Webinars noch einmal wiederholt haben, können Sie im Folgenden eine der u.s. Aufgabenstellungen wählen. Die Bearbeitung nimmt jeweils etwa 30 Minuten in Anspruch.  
+Nachdem die grundlegenden Merkmale von OER in Kürze dargestellt wurden, geht es nun zu einer kleinen Aufgabenstellung. Im folgenden finden Sie zwei unterschiedliche Aufgaben, die unabhängig voneinander gewählt werden können. Die Bearbeitung nimmt jeweils etwa 30 Minuten in Anspruch.  
 <br>
 <br>
 <b>Aufgabe A:</b> Führen Sie eine Internetrecherche durch und identifizieren Sie hochwertige Lehrmaterialien, die den Merkmalen von OER entsprechen. Veröffentlichen Sie diese anschließend im OER-Portal twillo. *Los geht's!*

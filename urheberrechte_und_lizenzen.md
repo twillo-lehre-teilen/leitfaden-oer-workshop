@@ -97,7 +97,7 @@ for (var i = 0; i < acc.length; i++) {
 
 <figure>
   <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. Offenheitsgrade von OER_CCLizenzen" title="Abbildung "Offenheitsgrade von OER" von twillo, lizenziert unter CC BY SA (4.0)">
-    <figcaption style="text-align:center;font-size:14px;">Abb. <b><i>Offenheitsgrade von OER</i></b> von twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY (4.0)</a>, basierend auf der Grafik <a aria-label="Link zur Grafik zum Creative Commons Lizenzspektrum" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"> <i>Creative commons license spectrum</i></a> von Shaddim unter <a aria-label="Link: mehr zur BY 4.0 Lizenz" https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
+    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Offenheitsgrade von OER</i> von twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY (4.0)</a>, basierend auf der Grafik <a aria-label="Link zur Grafik zum Creative Commons Lizenzspektrum" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"> <i>Creative commons license spectrum</i></a> von Shaddim unter <a aria-label="Link: mehr zur BY 4.0 Lizenz" https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
 </figure>
 
 ### Weiterführende Informationen

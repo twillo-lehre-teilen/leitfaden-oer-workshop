@@ -2,13 +2,13 @@
 
 ### Starre Regularien des Urheberrechts
 
-Das Urheberrecht ist ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber*innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
+Das Urheberrecht ist ein Monopolrecht mit Erlaubnisvorbehalt. Das heißt, Urheber:innen besitzen in der Regel alle Rechte an von ihnen erstellten Inhalten, so dass nur sie diese wirtschaftlich verwerten und verbreiten dürfen. Grundsätzlich ist damit jede Verwendung eines urheberrechtlich geschützten Inhalts zustimmungs- und oftmals auch vergütungspflichtig (Ausnahmen hiervon stellen sogenannte „Schrankenregelungen“ dar: Zitatrecht, § 51 UrhG, Unterricht und Lehre § 60a UrhG).
 
 Die Schrankenbestimmung für Unterricht und Lehre in § 60a UrhG sieht Erleichterungen für Nutzungen eines Lernmaterials in der Hochschule bis zu einem bestimmten Umfang vor (15 % bei Druckwerken; 5 Min bei Videos und Musik). Nach dem Gesetzestext darf die Nutzung erfolgen: 
 
 <ol>
-    <li>für Lehrende und Teilnehmer*innen der jeweiligen Veranstaltung,</li>
-    <li>für Lehrende und Prüfer*innen an derselben Bildungseinrichtung sowie</li>
+    <li>für Lehrende und Teilnehmer:innen der jeweiligen Veranstaltung,</li>
+    <li>für Lehrende und Prüfer:innen an derselben Bildungseinrichtung sowie</li>
     <li>für Dritte, soweit dies der Präsentation des Unterrichts oder von Unterrichts- oder Lernergebnissen an der Bildungseinrichtung dient.</li>
 </ol>
 
@@ -18,13 +18,13 @@ Solche Einschränkungen sehen <b>offene Lizenzen</b> nicht vor. Sie ermöglichen
 
 ### Die Mehrwerte offener Lizenzen
 
-Offene Lizenzen wurden entwickelt, um die Rechte von Urheber\*innen zu schützen und gleichzeitig Dritten die (Weiter-)Verwendung und zum Teil sogar Anpassung und Änderung ihrer Inhalte und Materialien zu ermöglichen. Die Wahl einer bestimmten offenen Lizenz (und damit verbunden bestimmte Möglichkeiten der Nachnutzung ihrer Inhalte) liegt hierbei bei den Urheber\*innen selbst. Auf diese Weise werden die Einschränkungen des Urheberrechts überwunden; Urheber\*innen bleiben aber gleichzeitig als solche anerkannt. Dies ist im Bereich von Wissenschaft und Forschung von besonderer Relevanz.
+Offene Lizenzen wurden entwickelt, um die Rechte von Urheber:innen zu schützen und gleichzeitig Dritten die (Weiter-)Verwendung und zum Teil sogar Anpassung und Änderung ihrer Inhalte und Materialien zu ermöglichen. Die Wahl einer bestimmten offenen Lizenz (und damit verbunden bestimmte Möglichkeiten der Nachnutzung ihrer Inhalte) liegt hierbei bei den Urheber:innen selbst. Auf diese Weise werden die Einschränkungen des Urheberrechts überwunden; Urheber:innen bleiben aber gleichzeitig als solche anerkannt. Dies ist im Bereich von Wissenschaft und Forschung von besonderer Relevanz.
 
 OER sind offen lizenziert und ermöglichen somit ihre freie, aber dennoch regulierte Verwendung mit verschiedenen Nutzungsgraden. Auf dem Portal twillo wird für eine offene Lizenzierung das standardisierte <B>Creative Commons-Lizenzsystem</B> empfohlen (vgl. u. a. <a aria-label="Quellenlink Unesco 2019" href="https://www.unesco.de/sites/default/files/2018-01/DUK_Leitfaden_OER_in_der_Hochschulbildung_2015_barrierefrei-1.pdf" target="_blank">DUK 2015</a>, <a aria-label="Link zu twillo" href="https://www.twillo.de/oer/web/rechtliches/" target="_blank">twillo 2021</a>)
 
 ### Die Bedingungen von Creative Commons-Lizenzen
 
-Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich voneinander unterscheiden. So können Urheber*innen mit ihrer Wahl einer CC-Lizenz die Nutzung ihrer Inhalte entweder relativ stark einschränken oder umfassend ermöglichen. Die u.s Liste gibt einen Überblick über gängige CC-Lizenzen.
+Es existiert eine Vielzahl unterschiedlicher CC-Lizenzen, die sich erheblich voneinander unterscheiden. So können Urheber:innen mit ihrer Wahl einer CC-Lizenz die Nutzung ihrer Inhalte entweder relativ stark einschränken oder umfassend ermöglichen. Die u.s Liste gibt einen Überblick über gängige CC-Lizenzen.
 
 <!-- Script fürs Accordion -->
 <script>
@@ -97,7 +97,7 @@ for (var i = 0; i < acc.length; i++) {
 
 <figure>
   <img src="images/Offenheitsgrade von OER_CCLizenzen.svg" alt="Abb. Offenheitsgrade von OER_CCLizenzen" title="Abbildung "Offenheitsgrade von OER" von twillo, lizenziert unter CC BY SA (4.0)">
-    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Offenheitsgrade von OER</i> von twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY (4.0)</a>, basierend auf der Grafik <a aria-label="Link zur Grafik zum Creative Commons Lizenzspektrum" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"> <i>Creative commons license spectrum</i></a> von Shaddim unter <a aria-label="Link: mehr zur BY 4.0 Lizenz" https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
+    <figcaption style="text-align:center;font-size:14px;">Abb. <i>Offenheitsgrade von OER</i> von twillo, lizenziert unter <a aria-label="Link zur Quelle (CreativeCommons Seite)" href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY (4.0)</a>, basierend auf <a aria-label="Link zur Grafik zum Creative Commons Lizenzspektrum" href="https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg"> <i>Creative commons license spectrum</i></a> von Shaddim unter <a aria-label="Link: mehr zur BY 4.0 Lizenz" https://creativecommons.org/licenses/by/4.0/legalcode">CC BY (4.0)</a></figcaption>
 </figure>
 
 ### Weiterführende Informationen
@@ -110,5 +110,5 @@ CC-Lizenzen auf einen Blick finden Sie z.B. in folgendem Handzettel der Martin-L
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
-  <figcaption style="text-align:center;font-size:14px;">Video 1: <a aria-label="Urheberrecht für Nicht-Jurist:innen" href="https://www.youtube.com/watch?v=E955up7vtCk" target="_blank">Urheberrecht für Nicht-Jurist:innen</a> von Nele Hirsch lizenziert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC 0 (1.0)</a></figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Video <a aria-label="Urheberrecht für Nicht-Jurist:innen" href="https://www.youtube.com/watch?v=E955up7vtCk" target="_blank"><i>Urheberrecht für Nicht-Jurist:innen</i></a> von Nele Hirsch, lizenziert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC 0 (1.0)</a></figcaption>
 </figure>

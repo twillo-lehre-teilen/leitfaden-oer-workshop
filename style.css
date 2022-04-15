@@ -2,7 +2,7 @@
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-tap-highlight-color: rgba(0,0,0,1);
   -webkit-text-size-adjust: none;
   -webkit-touch-callout: none;
   box-sizing: border-box;
@@ -221,7 +221,7 @@ main.hidden {
 .anchor:hover {
   text-decoration: underline;
 }
-/*-- sidebar (unten gibts nochmal sidebar sachen (glaube hier sturktur/rahmen/button etc. und unten inhalt)--*/
+/*-- sidebar (unten gibts nochmal sidebar sachen (hier struktur/rahmen/button etc. und unten inhalt) --*/
 .sidebar {
   border-right: 2px solid #D1D8E1;
   overflow-y: auto;

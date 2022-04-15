@@ -2,7 +2,7 @@
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
-  -webkit-tap-highlight-color: #000;
+  -webkit-tap-highlight-color: rgb(0,0,0,0);
   -webkit-text-size-adjust: none;
   -webkit-touch-callout: none;
   box-sizing: border-box;

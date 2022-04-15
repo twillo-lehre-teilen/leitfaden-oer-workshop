@@ -8,6 +8,8 @@
 
   * [Chancen von OER in der Hochschullehre](chancen.md)
   
+  * [Qualität von OER](qualität.md)
+  
   * [Merkmale von OER](merkmale.md)
   
   * [Urheberrecht und offene Lizenzen](urheberrechte_und_lizenzen.md)

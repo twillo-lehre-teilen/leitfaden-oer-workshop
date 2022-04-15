@@ -12,7 +12,7 @@ Alle Inhalte sollten dem <b>aktuellen fachwissenschaftlichen Stand</b> entsprech
 
 #### Wiederverwertbarkeit 
 
-Andere Lehrende sollten ein Bildungsmaterial <b>ohne großen Aufwand</b> für ihre Zwecke wiederverwerten können. Die Wiederverwertbarkeit sollte <b>inhaltlich</b> und <b>technisch</b> unterstützt und <b>rechtliche Verstöße</b> ausgeschlossen werden. Die rechtliche und technische Wiederverwertbarkeit wird unter <u>Merkmale von OER</u> näher erläutert.
+Andere Lehrende sollten ein Bildungsmaterial <b>ohne großen Aufwand</b> für ihre Zwecke wiederverwerten können. Die Wiederverwertbarkeit sollte <b>inhaltlich</b> und <b>technisch</b> unterstützt und <b>rechtliche Verstöße</b> ausgeschlossen werden. Die rechtliche und technische Wiederverwertbarkeit wird unter <u>[Merkmale von OER](merkmale.md)</u> näher erläutert.
 
 #### Anwendung und Transfer
 

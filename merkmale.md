@@ -1,4 +1,4 @@
-## Merkmale von OER
+# Merkmale von OER
 
 <figure>
   <img src="images/Merkmale_OER.svg" alt="Abb. Merkmale von OER: offene Lizenz, offenes Dateiformat, automatische Auffindbarkeit, didaktische Kontextualisierung. Das macht hochwertige OER-Materialien aus" title="Abbildung : Merkmale von OER"/>

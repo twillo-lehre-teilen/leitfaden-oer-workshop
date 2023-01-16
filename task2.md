@@ -105,7 +105,7 @@ Bei der Einbindung von CC-lizenzierten Materialien in Ihre eigenen Werke, müsse
       <b><font size="10">L</font></b>
     </td>
     <td valign="middle" text-align="left" width="90%">
-      Setzen Sie einen <b>LINK</b> zu dem Lizenztext ("legalcode"). Sollte eine Verlinkung nicht möglch sein, muss der Link ausgeschrieben werden.
+      Setzen Sie einen <b>LINK</b> zu dem Lizenztext ("legalcode"). Sollte eine Verlinkung nicht möglich sein, muss der Link ausgeschrieben werden.
     </td>
   </tr>
   <tr>
@@ -276,7 +276,7 @@ Geben Sie auch das entsprechende <b>Fach-/ Sachgebiet</b> an und legen Sie <b>Sc
 <ul>
   <li>Geben Sie an, in welchem <b>Veranstaltungsformat</b> Ihr Material erprobt oder für welchen Kontext es konzipiert wurde.</li>
   <br>
-  <li>Geben Sie an, für welche <b>Nivea</b>ustufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
+  <li>Geben Sie an, für welche <b>Niveau</b>stufe bzw. Zielgruppe Ihr Material primär entworfen wurde. Diese Angabe schließt eine Verwendung mit anderen Zielgruppen nicht aus.</li>
   <br>
   <li>Das Metadatum didaktische <b>Funktion</b> zeigt an, worauf und auf welche Lernhandlung das Bildungsmaterial primär zielt:</li>
   <ul>

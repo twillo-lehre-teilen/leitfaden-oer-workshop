@@ -190,7 +190,7 @@ An folgendem Beispiel für einen ausführlichen Lizenzhinweis können Sie sich b
     <video style="width:100%;" controls>
       <source src="videos/DFN_Zugang.mp4" type="video/mp4" aria-label="Video: Bei Twillo anmelden">
     </video>
-    <figcaption style="text-align:center;font-size:14px;">Video 2: Twillo-Zugang über DFN</figcaption>
+    <figcaption style="text-align:center;font-size:14px;">Video 4: Twillo-Zugang über DFN</figcaption>
   </figure>
 
 &#9888;&#65039; <b>Nicht immer ist eine freie Lizenzwahl möglich:</b> \

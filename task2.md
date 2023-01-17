@@ -186,12 +186,12 @@ An folgendem Beispiel für einen ausführlichen Lizenzhinweis können Sie sich b
 
   Das folgende Video "Lizenzhinweise am eigenem Material" zeigt, worauf bei der Lizenzierung geachtet werden muss.
 
-<figure>
-<video style="width:100%;" controls>
- <source src="videos/Lizenzangaben an eigenen Bildungsmaterialien.mp4" type="video/mp4" aria-label="Video zu Lizenzangaben an eigenen Bildungsmaterialien">
- </video>
- <figcaption style="text-align:center;font-size:14px;">Video 1: Lizenzhinweise am eigenem Material</figcaption>
-</figure>
+  <figure>
+    <video style="width:100%;" controls>
+      <source src="videos/DFN_Zugang.mp4" type="video/mp4" aria-label="Video: Bei Twillo anmelden">
+    </video>
+    <figcaption style="text-align:center;font-size:14px;">Video 2: Twillo-Zugang über DFN</figcaption>
+  </figure>
 
 &#9888;&#65039; <b>Nicht immer ist eine freie Lizenzwahl möglich:</b> \
 Wenn Sie einzelne Inhalte oder Werke entsprechend der lizenzrechtlichen Vorgaben bearbeitet haben (z.B. Designanpassung oder inhaltliche Ergänzungen), dann kennzeichnen Sie dies im Lizenzhinweis und prüfen, welche Lizenzbedingungen am verwendeten Ursprungswerk gelten! Wenn Sie z.B. auf ein Material aufbauen, dass unter der Lizenz CC BY SA steht, dann müssen Sie das neu entstandene Werk ebenfalls unter dieser Lizenz stellen.
